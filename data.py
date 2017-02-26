@@ -102,6 +102,6 @@ class Trainer:
 
         sets = []
         for set in self.sets:
-            if set.name[:-2] == name:
+            if set.name.startswith(name):
                 sets.append(set)
         return sets

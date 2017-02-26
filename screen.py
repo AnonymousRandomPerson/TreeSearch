@@ -26,6 +26,7 @@ class Screen:
         self.flagZ = True
 
         self.root = Tk()
+        self.root.wm_title("Tree Search")
 
         self.searchFrame = Frame(self.root)
         self.trainerEntry = self.createLabeledEntry(0, "Trainer")
@@ -33,11 +34,36 @@ class Screen:
         self.pokemonEntry.append(self.createLabeledEntry(2, "Pokemon 2"))
         self.addPokemonEntry = self.createLabeledEntry(3, "Add Pokémon")
 
-        button = Button(self.searchFrame, text="Search", command=self.searchTrainer).grid(row=0, column=2)
-        button = Button(self.searchFrame, text="Add", command=self.addPokemon).grid(row=3, column=2)
+        def searchEvent(event):
+            """
+            Searches for a Trainer's sets.
+
+            Args:
+                event: The event that invoked this function.
+            """
+            self.searchTrainer()
+        self.trainerEntry.bind("<Return>", searchEvent)
+
+        def addEvent(event):
+            """
+            Adds another Pokémon to the Trainer.
+
+            Args:
+                event: The event that invoked this function.
+            """
+            self.addPokemon()
+        self.addPokemonEntry.bind("<Return>", addEvent)
+
+        for entry in self.pokemonEntry:
+            entry.bind("<Return>", searchEvent)
+
+        searchButton = Button(self.searchFrame, text="Search", command=self.searchTrainer, takefocus=False)
+        searchButton.grid(row=0, column=2)
+        addButton = Button(self.searchFrame, text="Add", command=self.addPokemon, takefocus=False)
+        addButton.grid(row=3, column=2)
         self.searchFrame.grid(row=0, column=0, sticky=E)
         
-        debug = True
+        debug = False
         if debug:
             self.trainerEntry.insert(0, "Red")
             self.pokemonEntry[0].insert(0, "Lapras")
@@ -160,6 +186,18 @@ class Screen:
         self.setObjects = []
         self.updateEntries = []
 
+        def updateEvent(event):
+            """
+            Updates the possible Pokémon at a certain slot.
+
+            Args:
+                event: The event that invoked this function.
+            """
+            for i in range(len(self.updateEntries)):
+                if event.widget == self.updateEntries[i]:
+                    self.updatePokemon(i)
+                    break
+
         currentRow = 1
         for slot, pokemon in enumerate(self.sets):
             for set in pokemon:
@@ -179,14 +217,17 @@ class Screen:
 
                 currentRow += 1
 
-            firstRow = currentRow - len(pokemon)
-            entry = Entry(self.setFrame)
-            entry.grid(row=firstRow, column=i+1)
-            self.updateEntries.append(entry)
+            numPokemon = len(pokemon)
+            if numPokemon > 1:
+                firstRow = currentRow - numPokemon
+                entry = Entry(self.setFrame)
+                entry.grid(row=firstRow, column=i+1)
+                entry.bind("<Return>", updateEvent)
+                self.updateEntries.append(entry)
 
-            button = Button(self.setFrame, text="Update", command=self.updateFunctions[slot])
-            button.grid(row=firstRow, column=i+2)
-            self.setObjects.append(button)
+                button = Button(self.setFrame, text="Update", command=self.updateFunctions[slot], takefocus=False)
+                button.grid(row=firstRow, column=i+2)
+                self.setObjects.append(button)
 
             label = Label(self.setFrame, text="")
             label.grid(row=currentRow, column=0)
@@ -211,12 +252,11 @@ class Screen:
             fields = (set.name, set.item, set.moves[0], set.moves[1], set.moves[2], set.moves[3])
             valid = False
             for field in fields:
-                if field != "" and field == compareField:
+                if field != "" and field.startswith(compareField):
                     valid = True
                     break
             if valid:
                 newSets.append(set)
-                break
         if len(newSets) > 0:
             self.sets[number] = newSets
             self.displaySets()
