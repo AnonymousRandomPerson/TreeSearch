@@ -20,7 +20,7 @@ class Data:
             trainerReader = csv.reader(csvFile)
             for row in trainerReader:
                 trainer = Trainer(self, row)
-                self.trainers[trainer.name] = trainer
+                self.trainers[trainer.name.lower()] = trainer
 
     def getTrainer(self, name):
         """
@@ -29,6 +29,7 @@ class Data:
         Args:
             The name of the Trainer.
         """
+        name = name.lower()
         if name in self.trainers:
             return self.trainers[name]
         return None
@@ -101,7 +102,10 @@ class Trainer:
         """
 
         sets = []
-        for set in self.sets:
-            if set.name.startswith(name):
-                sets.append(set)
+        name = name.lower()
+        if name:
+            for set in self.sets:
+                lowerName = set.name.lower()
+                if lowerName.startswith(name):
+                    sets.append(set)
         return sets

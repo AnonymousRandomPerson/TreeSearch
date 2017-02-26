@@ -249,12 +249,13 @@ class Screen:
 
         newSets = []
         currentEntry = self.updateEntries[number]
-        compareField = currentEntry.get()
+        compareField = currentEntry.get().lower()
         for set in sets:
             fields = (set.name, set.item, set.moves[0], set.moves[1], set.moves[2], set.moves[3])
             valid = False
             for field in fields:
-                if field != "" and field.startswith(compareField):
+                lowerField = field.lower()
+                if lowerField != "" and lowerField.startswith(compareField):
                     valid = True
                     break
             if valid:
