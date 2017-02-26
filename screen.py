@@ -29,10 +29,10 @@ class Screen:
         self.root.wm_title("Tree Search")
 
         self.searchFrame = Frame(self.root)
+        self.searchFrame.grid(row=0, column=0, sticky=E)
         self.trainerEntry = self.createLabeledEntry(0, "Trainer")
         self.pokemonEntry.append(self.createLabeledEntry(1, "Pokémon 1"))
         self.pokemonEntry.append(self.createLabeledEntry(2, "Pokemon 2"))
-        self.addPokemonEntry = self.createLabeledEntry(3, "Add Pokémon")
 
         def searchEvent(event):
             """
@@ -44,6 +44,22 @@ class Screen:
             self.searchTrainer()
         self.trainerEntry.bind("<Return>", searchEvent)
 
+        for entry in self.pokemonEntry:
+            entry.bind("<Return>", searchEvent)
+
+        searchButton = Button(self.searchFrame, text="Search", command=self.searchTrainer, takefocus=False)
+        searchButton.grid(row=0, column=2)
+
+        self.data = Data()
+
+        self.initSearch = False
+
+        self.root.mainloop()
+
+    def initAfterSearch(self):
+        """Initializes the add Pokémon entry and table headers after a Trainer is searched for."""
+        self.addPokemonEntry = self.createLabeledEntry(3, "Add Pokémon")
+
         def addEvent(event):
             """
             Adds another Pokémon to the Trainer.
@@ -52,35 +68,17 @@ class Screen:
                 event: The event that invoked this function.
             """
             self.addPokemon()
+
         self.addPokemonEntry.bind("<Return>", addEvent)
 
-        for entry in self.pokemonEntry:
-            entry.bind("<Return>", searchEvent)
-
-        searchButton = Button(self.searchFrame, text="Search", command=self.searchTrainer, takefocus=False)
-        searchButton.grid(row=0, column=2)
         addButton = Button(self.searchFrame, text="Add", command=self.addPokemon, takefocus=False)
         addButton.grid(row=3, column=2)
-        self.searchFrame.grid(row=0, column=0, sticky=E)
-        
-        debug = False
-        if debug:
-            self.trainerEntry.insert(0, "Red")
-            self.pokemonEntry[0].insert(0, "Lapras")
-            self.pokemonEntry[1].insert(0, "Venusaur")
-            self.addPokemonEntry.insert(0, "Charizard")
-
-        self.setErrorText("")
 
         self.setFrame = Frame(self.root)
         self.setFrame.grid(row=1, column=0)
         rowNames = ("Set", "Item", "Move 1", "Move 2", "Move 3", "Move 4", "Nature", "EVs")
         for i, name in enumerate(rowNames):
             label = Label(self.setFrame, text=name).grid(row=0, column=i)
-
-        self.data = Data()
-
-        self.root.mainloop()
 
     def createLabeledEntry(self, entryRow, name):
         """
@@ -135,6 +133,10 @@ class Screen:
         self.trainerEntry.delete(0, END)
         for entry in self.pokemonEntry:
             entry.delete(0, END)
+
+        if not self.initSearch:
+            self.initSearch = True
+            self.initAfterSearch()
 
         self.displaySets()
 
