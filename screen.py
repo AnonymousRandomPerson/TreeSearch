@@ -130,7 +130,6 @@ class Screen:
         self.sets = sets
 
         self.setErrorText("")
-        self.trainerEntry.delete(0, END)
         for entry in self.pokemonEntry:
             entry.delete(0, END)
 
@@ -184,7 +183,8 @@ class Screen:
         """Displays the current sets on the screen."""
 
         for object in self.setObjects + self.updateEntries:
-            object.grid_forget()
+            if object:
+                object.grid_forget()
         self.setObjects = []
         self.updateEntries = []
 
@@ -230,6 +230,8 @@ class Screen:
                 button = Button(self.setFrame, text="Update", command=self.updateFunctions[slot], takefocus=False)
                 button.grid(row=firstRow, column=i+2)
                 self.setObjects.append(button)
+            else:
+                self.updateEntries.append(None)
 
             label = Label(self.setFrame, text="")
             label.grid(row=currentRow, column=0)
