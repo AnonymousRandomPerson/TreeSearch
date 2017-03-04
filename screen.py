@@ -140,17 +140,72 @@ class Screen:
         self.displaySets()
 
     def addPokemon(self):
-        """Adds another Pokémon to the Trainer."""
+        """Adds Pokémon to the Trainer."""
         
         if not self.trainer:
             self.setErrorText("No Trainer selected.")
             return
 
-        if len(self.sets) >= 4:
-            self.setErrorText("Too many Pokémon.")
-            return
+        allPokemon = str.split(self.addPokemonEntry.get(), " ")
+        newEntry = ""
+        error = ""
+        full = False
+        modified = True
 
-        pokemon = self.addPokemonEntry.get()
+        def addToError(error, newError):
+            """
+            Adds a new error to the current error string.
+
+            Args:
+                error: The original error string.
+                newError: The new error string to add.
+
+            Returns:
+                The new error string.
+            """
+            if error:
+                error += "\n" + newError
+            else:
+                error = newError
+            return error
+
+        for pokemon in allPokemon:
+            if len(self.sets) >= 4:
+                error = addToError(error, "Too many Pokémon.")
+                full = True
+                break
+
+            currentError = self.addSinglePokemon(pokemon)
+
+            if currentError:
+                error = addToError(error, currentError)
+                if newEntry:
+                    newEntry += " "
+                newEntry += pokemon
+            else:
+                modified = True
+            
+
+        self.setErrorText(error)
+        if full or modified:
+            self.addPokemonEntry.delete(0, END)
+            if newEntry:
+                self.addPokemonEntry.insert(END, newEntry)
+        
+            if modified:
+                self.displaySets()
+
+    def addSinglePokemon(self, pokemon):
+        """
+        Adds one Pokémon to the Trainer.
+
+        Args:
+            pokemon: The Pokémon to add.
+        
+        Returns:
+            An error message if the operation failed.
+            None if the operation succeeded.
+        """
         currentSets = self.trainer.getSets(pokemon)
 
         # Remove sets that are rendered invalid by item clause.
@@ -166,18 +221,15 @@ class Screen:
             currentSets.remove(set)
 
         if len(currentSets) == 0:
-            self.setErrorText("Pokémon not found: " + pokemon + ".")
-            return
+            return "Pokémon not found: " + pokemon + "."
+            return False
 
         for set in self.sets:
             if set[0].pokemon == currentSets[0].pokemon:
-                self.setErrorText("Duplicate Pokémon.")
-                return
+                return "Duplicate Pokémon."
 
         self.sets.append(currentSets)
-        self.addPokemonEntry.delete(0, END)
-        
-        self.displaySets()
+        return None
 
     def displaySets(self):
         """Displays the current sets on the screen."""
