@@ -146,7 +146,7 @@ class Screen:
             self.setErrorText("No Trainer selected.")
             return
 
-        allPokemon = str.split(self.addPokemonEntry.get(), " ")
+        allPokemon = str.split(self.addPokemonEntry.get(), ",")
         newEntry = ""
         error = ""
         full = False
