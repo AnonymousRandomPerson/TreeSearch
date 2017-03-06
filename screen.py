@@ -22,6 +22,7 @@ class Screen:
         self.redFlags += ["Fissure", "Guillotine", "Horn Drill", "Rock Slide", "Sheer Cold"]
         self.redFlags += ["Disable", "Grass Whistle", "Hypnosis", "Lovely Kiss", "Sing", "Sleep Powder", "Spore", "Torment"]
         self.redFlags += ["Double Team", "Minimize"]
+        self.redFlags += ["Metal Burst", "Mirror Coat"]
         self.flagMegas = True
         self.flagZ = True
 
