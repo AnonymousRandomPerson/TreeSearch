@@ -4,25 +4,21 @@ from Tkinter import *
 from data import *
 
 class Screen:
+
     """The main GUI screen."""
 
     def __init__(self):
         """Initializes the screen elements."""
         self.error = None
         self.trainer = None
+        self.battleType = None
         self.pokemonEntry = []
         self.setObjects = []
         self.updateEntries = []
         self.updateFunctions = (self.update0, self.update1, self.update2, self.update3)
 
         # Moves and items that will be highlighted red.
-        self.redFlags = ["Bright Powder", "Choice Scarf", "Custap Berry", "Focus Band", "Focus Sash", "Lax Incense", "Occa Berry", "Quick Claw"]
-        self.redFlags += ["Accelerock", "Aqua Jet", "Bullet Punch", "Extreme Speed", "Fake Out", "Feint", "First Impression", "Ice Shard", "Mach Punch", "Quick Attack", "Shadow Sneak", "Sucker Punch", "Vacuum Wave", "Water Shuriken"]
-        self.redFlags += ["Hail", "Light Screen", "Rain Dance", "Sandstorm", "Tailwind", "Trick Room", "Wide Guard"]
-        self.redFlags += ["Fissure", "Guillotine", "Horn Drill", "Rock Slide", "Sheer Cold"]
-        self.redFlags += ["Disable", "Grass Whistle", "Hypnosis", "Lovely Kiss", "Sing", "Sleep Powder", "Spore", "Torment"]
-        self.redFlags += ["Double Team", "Minimize"]
-        self.redFlags += ["Metal Burst", "Mirror Coat"]
+        self.redFlags = []
         self.flagMegas = True
         self.flagZ = True
 
@@ -124,11 +120,15 @@ class Screen:
             pokemon = entry.get()
             currentSet = trainer.getSets(pokemon)
             if len(currentSet) == 0:
-                self.setErrorText("Pokémon not found: " + pokemon)
-                return
-            sets.append(currentSet)
+                if len(sets) == 0:
+                    self.setErrorText("Pokémon not found: " + pokemon)
+                    return
+            else:
+                sets.append(currentSet)
         self.trainer = trainer
         self.sets = sets
+
+        self.updateBattleType(len(sets))
 
         self.setErrorText("")
         for entry in self.pokemonEntry:
@@ -338,3 +338,29 @@ class Screen:
         """Updates the party Pokémon at index 3."""
 
         self.updatePokemon(3)
+
+    def updateBattleType(self, battleType):
+        """
+        Updates the type of battle that is being used.
+
+        Args:
+            battleType: The type of battle that is being used.
+        """
+
+        if self.battleType != battleType:
+            self.battleType = battleType
+            if battleType == 1:
+                self.redFlags = ["Bright Powder", "Choice Scarf", "Custap Berry", "Focus Band", "Focus Sash", "Lax Incense", "Quick Claw"]
+                self.redFlags += ["Aurora Veil", "Light Screen", "Reflect", "Tailwind", "Trick Room"]
+                self.redFlags += ["Fissure", "Guillotine", "Horn Drill", "Sheer Cold"]
+                self.redFlags += ["Grass Whistle", "Hypnosis", "Lovely Kiss", "Sing", "Sleep Powder", "Spore"]
+                self.redFlags += ["Double Team", "Minimize"]
+                self.redFlags += ["Counter", "Metal Burst", "Mirror Coat"]
+            elif battleType == 2:
+                self.redFlags = ["Bright Powder", "Choice Scarf", "Custap Berry", "Focus Band", "Focus Sash", "Lax Incense", "Occa Berry", "Quick Claw"]
+                self.redFlags += ["Accelerock", "Aqua Jet", "Bullet Punch", "Extreme Speed", "Fake Out", "Feint", "First Impression", "Ice Shard", "Mach Punch", "Quick Attack", "Shadow Sneak", "Sucker Punch", "Vacuum Wave", "Water Shuriken"]
+                self.redFlags += ["Hail", "Light Screen", "Rain Dance", "Sandstorm", "Tailwind", "Trick Room", "Wide Guard"]
+                self.redFlags += ["Fissure", "Guillotine", "Horn Drill", "Rock Slide", "Sheer Cold"]
+                self.redFlags += ["Disable", "Grass Whistle", "Hypnosis", "Lovely Kiss", "Sing", "Sleep Powder", "Spore", "Torment"]
+                self.redFlags += ["Double Team", "Minimize"]
+                self.redFlags += ["Metal Burst", "Mirror Coat"]
