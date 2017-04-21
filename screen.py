@@ -263,7 +263,7 @@ class Screen:
 
         for object in self.setObjects + self.updateEntries:
             if object:
-                object.grid_forget()
+                object.destroy()
         self.setObjects = []
         self.updateEntries = []
 
