@@ -16,7 +16,6 @@ class Screen:
         self.pokemonEntry = []
         self.setObjects = []
         self.updateEntries = []
-        self.updateFunctions = (self.update0, self.update1, self.update2, self.update3)
 
         # Moves and items that will be highlighted red.
         self.redFlags = []
@@ -182,7 +181,6 @@ class Screen:
         allPokemon = str.split(self.addPokemonEntry.get(), ",")
         newEntry = ""
         error = ""
-        full = False
         modified = True
 
         def addToError(error, newError):
@@ -203,11 +201,6 @@ class Screen:
             return error
 
         for pokemon in allPokemon:
-            if len(self.sets) >= 4:
-                error = addToError(error, "Too many Pokémon.")
-                full = True
-                break
-
             currentError = self.addSinglePokemon(pokemon)
 
             if currentError:
@@ -220,7 +213,7 @@ class Screen:
             
 
         self.setErrorText(error)
-        if full or modified:
+        if modified:
             self.addPokemonEntry.delete(0, END)
             if newEntry:
                 self.addPokemonEntry.insert(END, newEntry)
@@ -313,7 +306,7 @@ class Screen:
                 entry.bind("<Return>", updateEvent)
                 self.updateEntries.append(entry)
 
-                button = Button(self.setFrame, text="Update", command=self.updateFunctions[slot], takefocus=False)
+                button = Button(self.setFrame, text = "Update", command = lambda: self.updatePokemon(slot), takefocus = False)
                 button.grid(row=firstRow, column=i+2)
                 self.setObjects.append(button)
             else:
@@ -351,26 +344,6 @@ class Screen:
         if len(newSets) > 0:
             self.sets[number] = newSets
             self.displaySets()
-
-    def update0(self):
-        """Updates the party Pokémon at index 0."""
-
-        self.updatePokemon(0)
-
-    def update1(self):
-        """Updates the party Pokémon at index 1."""
-
-        self.updatePokemon(1)
-
-    def update2(self):
-        """Updates the party Pokémon at index 2."""
-
-        self.updatePokemon(2)
-
-    def update3(self):
-        """Updates the party Pokémon at index 3."""
-
-        self.updatePokemon(3)
 
     def updateBattleType(self, battleType):
         """
