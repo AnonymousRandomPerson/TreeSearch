@@ -11,6 +11,7 @@ class Screen:
         """Initializes the screen elements."""
         self.error = None
         self.trainer = None
+        self.secondTrainer = None
         self.battleType = None
         self.pokemonEntry = []
         self.setObjects = []
@@ -110,15 +111,26 @@ class Screen:
 
     def searchTrainer(self):
         """Searches for a Trainer's sets."""
-        trainer = self.data.getTrainer(self.trainerEntry.get())
+        trainers = str.split(self.trainerEntry.get(), ",")
+        if not trainers:
+            return
+        trainer = self.data.getTrainer(trainers[0])
+        
+        secondTrainer = None
+        if len(trainers) > 1:
+            secondTrainer = self.data.getTrainer(trainers[1])
+            if not secondTrainer:
+                self.setErrorText("Trainer not found: " + trainers[1])
+                return
+
         if not trainer:
-            self.setErrorText("Trainer not found.")
+            self.setErrorText("Trainer not found: " + trainers[0])
             return
         
         sets = []
         for entry in self.pokemonEntry:
             pokemon = entry.get()
-            currentSet = trainer.getSets(pokemon)
+            currentSet = self.getSets(pokemon, trainer, secondTrainer)
             if len(currentSet) == 0:
                 if len(sets) == 0:
                     self.setErrorText("Pokémon not found: " + pokemon)
@@ -126,6 +138,7 @@ class Screen:
             else:
                 sets.append(currentSet)
         self.trainer = trainer
+        self.secondTrainer = secondTrainer
         self.sets = sets
 
         self.updateBattleType(len(sets))
@@ -139,6 +152,25 @@ class Screen:
             self.initAfterSearch()
 
         self.displaySets()
+
+    def getSets(self, pokemon, trainer, secondTrainer):
+        """
+        Gets the sets that can be used by a Trainer or two.
+
+        Args:
+            pokemon: The Pokémon to get sets for.
+            trainer: The first Trainer to get sets for.
+            secondTrainer: The second Trainer to get sets for, or None to not have a second Trainer.
+
+        Returns:
+            The sets that can be used by a Trainer or two. 
+        """
+        currentSet = trainer.getSets(pokemon)
+        if secondTrainer:
+            for set in secondTrainer.getSets(pokemon):
+                if set not in currentSet:
+                    currentSet.append(set)
+        return currentSet
 
     def addPokemon(self):
         """Adds Pokémon to the Trainer."""
@@ -207,19 +239,20 @@ class Screen:
             An error message if the operation failed.
             None if the operation succeeded.
         """
-        currentSets = self.trainer.getSets(pokemon)
+        currentSets = self.getSets(pokemon, self.trainer, self.secondTrainer)
 
-        # Remove sets that are rendered invalid by item clause.
-        removeSet = []
-        for set in self.sets:
-            if len(set) > 1:
-                continue
+        if not self.secondTrainer:
+            # Remove sets that are rendered invalid by item clause.
+            removeSet = []
+            for set in self.sets:
+                if len(set) > 1:
+                    continue
 
-            for current in currentSets:
-                if current.item == set[0].item:
-                    removeSet.append(current)
-        for set in removeSet:
-            currentSets.remove(set)
+                for current in currentSets:
+                    if current.item == set[0].item:
+                        removeSet.append(current)
+            for set in removeSet:
+                currentSets.remove(set)
 
         if len(currentSets) == 0:
             return "Pokémon not found: " + pokemon + "."
