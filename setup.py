@@ -8,7 +8,7 @@ Usage:
 from setuptools import setup
 
 APP = ['main.py']
-DATA_FILES = ['pokemon.csv', 'trainers.csv']
+DATA_FILES = ['pokemonSS.csv', 'trainersSS.csv']
 OPTIONS = {}
 
 setup(

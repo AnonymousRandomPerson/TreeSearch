@@ -1,0 +1,922 @@
+Rillaboom-1,Modest,Assault Vest,Grass Pledge,Earth Power,Focus Blast,Snarl,HP/SpA
+Cinderace-1,Modest,Choice Scarf,Fire Pledge,Shadow Ball,Focus Blast,Electro Ball,SpA/Spe
+Inteleon-1,Modest,Expert Belt,Water Pledge,Shadow Ball,Blizzard,Mud Shot,SpA/Spe
+Orbeetle-1,Calm,Light Clay,Psychic,Bug Buzz,Reflect,Light Screen,HP/SpD
+Butterfree-1,Timid,Charti Berry,Pollen Puff,Energy Ball,Tailwind,Safeguard,SpA/Spe
+Vikavolt-1,Modest,Sitrus Berry,Discharge,Bug Buzz,Eerie Impulse,Sticky Web,Def/SpA
+Noctowl-1,Modest,Sitrus Berry,Hyper Voice,Heat Wave,Reflect,Defog,HP/SpA
+Corviknight-1,Impish,Lum Berry,Drill Peck,Iron Head,Light Screen,Tailwind,Atk/Def
+Greedent-1,Adamant,Figy Berry,Body Slam,Crunch,Tail Whip,Protect,HP/Atk
+Unfezant-1,Naive,Scope Lens,Air Cutter,Night Slash,Detect,Work Up,Def/Spe
+Thievul-1,Timid,Focus Sash,Snarl,Grass Knot,Nasty Plot,Baton Pass,SpA/Spe
+Obstagoon-1,Modest,Chople Berry,Snarl,Icy Wind,Hyper Voice,Parting Shot,SpA/Spe
+Dubwool-1,Impish,Rocky Helmet,Retaliate,Counter,Body Slam,Rest,HP/Def
+Ludicolo-1,Modest,Leftovers,Protect,Leech Seed,Drain Punch,Rain Dance,HP/Atk
+Shiftry-1,Hasty,Expert Belt,Razor Leaf,Air Cutter,Icy Wind,Snarl,Atk/SpA
+Drednaw-1,Jolly,Rindo Berry,Rock Slide,Ice Fang,Gastro Acid,Rain Dance,Atk/Spe
+Liepard-1,Adamant,Liechi Berry,Fake Out,Sucker Punch,Encore,Endure,Atk/Def
+Boltund-1,Naive,Salac Berry,Electro Ball,Flame Charge,Thunder Wave,Howl,SpA/Spe
+Diggersby-1,Adamant,Sitrus Berry,Mega Kick,Stomping Tantrum,Leer,Quick Attack,Atk/Spe
+Cinccino-1,Timid,Sitrus Berry,Hyper Voice,Dazzling Gleam,Tail Whip,Helping Hand,SpA/Spe
+Tsareena-1,Modest,Big Root,Draining Kiss,Giga Drain,Acupressure,Protect,SpA/Spe
+Vileplume-1,Modest,Leftovers,Giga Drain,Sludge Wave,Charm,Protect,SpA/SpD
+Bellossom-1,Quiet,Lum Berry,Petal Dance,Dazzling Gleam,Protect,Helping Hand,Def/SpD
+Roserade-1,Adamant,Bright Powder,Toxic Spikes,Life Dew,Protect,Razor Leaf,Atk/SpD
+Pelipper-1,Timid,King’s Rock,Twister,Air Slash,Tailwind,Icy Wind,SpA/Spe
+Galvantula-1,Timid,Focus Sash,Sticky Web,Discharge,Gastro Acid,Protect,SpA/Spe
+Manectric-1,Jolly,Focus Sash,Thunder Fang,Ice Fang,Fire Fang,Agility,Atk/Spe
+Ninetales-1,Modest,Air Balloon,Will-O-Wisp,Hex,Flamethrower,Energy Ball,SpA/SpD
+Arcanine-1,Jolly,Leftovers,Will-O-Wisp,Dig,Protect,Fire Fang,Atk/Spe
+Vanilluxe-1,Jolly,Leftovers,Imprison,Icicle Crash,Explosion,Protect,Atk/Spe
+Mamoswine-1,Adamant,Bright Powder,Icy Wind,Rock Slide,Stealth Rock,Hail,HP/Atk
+Glalie-1,Modest,King’s Rock,Icy Wind,Dark Pulse,Rest,Sleep Talk,HP/SpA
+Froslass-1,Timid,Bright Powder,Will-O-Wisp,Double Team,Draining Kiss,Hail,SpA/Spe
+Claydol-1,Jolly,Rocky Helmet,Stealth Rock,Earth Power,Eerie Impulse,Extrasensory,SpD/Spe
+Mudsdale-1,Careful,Leftovers,Body Slam,Protect,Sandstorm,Stealth Rock,Def/SpD
+Crustle-1,Jolly,Quick Claw,Swords Dance,Poison Jab,X-Scissor,Rock Slide,Atk/Spe
+Golurk-1,Adamant,Leftovers,Curse,Protect,Mud-Slap,Drain Punch,HP/Atk
+Musharna-1,Modest,Leftovers,Dream Eater,Yawn,Protect,Dazzling Gleam,SpA/SpD
+Xatu-1,Timid,Focus Sash,Wish,U-turn,Tailwind,Air Slash,SpA/Spe
+Bewear-1,Impish,Rocky Helmet,Taunt,Bulk Up,Drain Punch,Payback,HP/Atk
+Abomasnow-1,Brave,Occa Berry,Seed Bomb,Ice Shard,Avalanche,Protect,Atk/SpD
+Kingler-1,Jolly,Blunder Policy,Guillotine,Stomping Tantrum,Rock Slide,Protect,Atk/Spe
+Quagsire-1,Impish,Rindo Berry,Power-Up Punch,Rest,Sleep Talk,Liquidation,HP/Def
+Crawdaunt-1,Bold,Leftovers,Snarl,Ancient Power,Rest,Sleep Talk,Def/SpD
+Ninjask-1,Adamant,Charti Berry,Swords Dance,X-Scissor,Protect,Baton Pass,Atk/Spe
+Shedinja-1,Jolly,Safety Goggles,Will-O-Wisp,Phantom Force,Shadow Sneak,Protect,Atk/Spe
+Hitmonlee-1,Jolly,King’s Rock,Low Sweep,Protect,Rock Tomb,Rock Slide,Atk/Spe
+Hitmonchan-1,Impish,Scope Lens,Mach Punch,Bullet Punch,Fake Out,Detect,Atk/Def
+Hitmontop-1,Jolly,Leftovers,Bulk Up,Triple Kick,Bullet Punch,Detect,SpD/Spe
+Pangoro-1,Brave,Rocky Helmet,Parting Shot,Retaliate,Taunt,Payback,HP/Atk
+Klinklang-1,Adamant,Air Balloon,Magnetic Flux,Gear Up,Gear Grind,Wild Charge,Atk/SpD
+Vespiquen-1,Impish,Bright Powder,Swagger,Toxic Spikes,Attack Order,Attract,Def/SpD
+Bronzong-1,Modest,Lum Berry,Rain Dance,Sunny Day,Sandstorm,Weather Ball,SpA/SpD
+Gardevoir-1,Calm,Light Clay,Dazzling Gleam,Hyper Voice,Life Dew,Light Screen,SpA/SpD
+Gallade-1,Modest,Petaya Berry,Aura Sphere,Energy Ball,Shadow Ball,Thunderbolt,SpA/Spe
+Drifblim-1,Modest,Sitrus Berry,Psychic,Shadow Ball,Haze,Defog,HP/SpA
+Eldegoss-1,Sassy,Terrain Extender,Giga Drain,Hyper Voice,Grassy Terrain,Helping Hand,Def/SpD
+Cherrim-1,Jolly,Leftovers,Protect,Draining Kiss,Giga Drain,Sunny Day,Atk/Spe
+Skuntank-1,Impish,Leftovers,Toxic,Venoshock,Hex,Protect,HP/Def
+Seismitoad-1,Modest,Damp Rock,Rain Dance,Weather Ball,Mud Shot,Gastro Acid,HP/SpA
+Dusknoir-1,Careful,Rocky Helmet,Shadow Sneak,Pain Split,Will-O-Wisp,Protect,Def/SpD
+Machamp-1,Brave,Weakness Policy,Revenge,Payback,Counter,Bullet Punch,Atk/SpD
+Gengar-1,Modest,Focus Sash,Toxic,Protect,Venoshock,Hex,SpA/Spe
+Gyarados-1,Timid,Sitrus Berry,Ice Beam,Hurricane,Hydro Pump,Thunderbolt,SpA/Spe
+Seaking-1,Timid,Leftovers,Psybeam,Water Pulse,Protect,Haze,SpD/Spe
+Octillery-1,Calm,Bright Powder,Octazooka,Sludge Bomb,Rest,Sleep Talk,SpA/SpD
+Cloyster-1,Calm,Lum Berry,Hail,Rain Dance,Weather Ball,Protect,Def/SpA
+Milotic-1,Timid,Damp Rock,Rain Dance,Scald,Recover,Icy Wind,SpA/SpD
+Basculin-1,Modest,Bright Powder,Muddy Water,Icy Wind,Uproar,Protect,SpA/Spe
+Wishiwashi-1,Bold,Bright Powder,Muddy Water,Ice Beam,Protect,Endeavor,Def/SpD
+Pyukumuku-1,Relaxed,Rocky Helmet,Safeguard,Swagger,Protect,Spite,Def/SpD
+Garbodor-1,Sassy,Rocky Helmet,Curse,Drain Punch,Rest,Sleep Talk,Atk/SpD
+Centiskorch-1,Bold,Grip Claw,Scald,Heat Wave,Protect,Wrap,HP/Def
+Coalossal-1,Impish,Bright Powder,Stealth Rock,Will-O-Wisp,Protect,Mud-Slap,HP/Def
+Dugtrio-1,Jolly,Smooth Rock,High Horsepower,Rock Slide,Ally Switch,Sandstorm,Atk/Spe
+Excadrill-1,Impish,Leftovers,Poison Jab,Dig,Protect,Sandstorm,HP/Def
+Gigalith-1,Modest,Leftovers,Power Gem,Flash Cannon,Earth Power,Protect,Def/SpA
+Conkeldurr-1,Adamant,Flame Orb,Payback,Facade,Drain Punch,Protect,HP/Atk
+Swoobat-1,Jolly,Flame Orb,Psychic Fangs,Knock Off,Trick,Protect,Atk/Spe
+Noivern-1,Modest,Razor Fang,Air Cutter,Heat Wave,Defog,Tailwind,SpA/Spe
+Steelix-1,Impish,Sitrus Berry,Dig,Breaking Swipe,Wide Guard,Sandstorm,Atk/Def
+Barraskewda-1,Careful,Leftovers,Poison Jab,Bounce,Dive,Protect,HP/SpD
+Perrserker-1,Impish,Weakness Policy,Iron Defense,Amnesia,Baton Pass,Iron Head,Def/SpD
+Alcremie-1,Sassy,Big Root,Draining Kiss,Drain Punch,Giga Drain,Charm,HP/SpD
+Ribombee-1,Modest,Leftovers,Skill Swap,Draining Kiss,Protect,Aromatherapy,SpA/SpD
+Ferrothorn-1,Modest,Expert Belt,Flash Cannon,Giga Drain,Thunderbolt,Acid Spray,SpA/SpD
+Gourgeist-1,Sassy,Sitrus Berry,Curse,Ally Switch,Protect,Razor Leaf,HP/SpD
+Raichu-1,Bold,Light Clay,Feint,Discharge,Swift,Reflect,Def/Spe
+Vaporeon-1,Calm,Ganlon Berry,Yawn,Acid Armor,Baton Pass,Water Pulse,HP/SpD
+Jolteon-1,Calm,Salac Berry,Thunder Wave,Agility,Baton Pass,Electro Ball,SpD/Spe
+Flareon-1,Careful,Liechi Berry,Will-O-Wisp,Curse,Baton Pass,Fire Fang,Atk/SpD
+Espeon-1,Calm,Petaya Berry,Yawn,Calm Mind,Baton Pass,Psybeam,SpA/SpD
+Umbreon-1,Bold,Apicot Berry,Confuse Ray,Work Up,Baton Pass,Snarl,Def/SpD
+Leafeon-1,Impish,Liechi Berry,Yawn,Swords Dance,Baton Pass,Razor Leaf,Def/Spe
+Glaceon-1,Bold,Petaya Berry,Yawn,Work Up,Baton Pass,Icy Wind,Def/SpD
+Sylveon-1,Calm,Apicot Berry,Yawn,Calm Mind,Baton Pass,Draining Kiss,HP/SpD
+Slurpuff-1,Bold,Petaya Berry,Wish,Draining Kiss,Yawn,Protect,HP/Def
+Aromatisse-1,Calm,Sitrus Berry,Fake Tears,Dazzling Gleam,Helping Hand,Ally Switch,HP/SpD
+Araquanid-1,Jolly,Scope Lens,Rain Dance,Waterfall,Sticky Web,X-Scissor,Atk/Spe
+Wobbuffet-1,Calm,Sitrus Berry,Counter,Mirror Coat,Encore,Destiny Bond,HP/SpD
+Sirfetch'd-1,Careful,Leftovers,Revenge,Iron Defense,Protect,Poison Jab,Def/SpD
+Lanturn-1,Adamant,Leftovers,Bounce,Dive,Volt Switch,Protect,HP/Atk
+Toxicroak-1,Careful,Leftovers,Toxic,Protect,Drain Punch,Sucker Punch,Atk/SpD
+Scrafty-1,Impish,Eject Pack,Thief,Close Combat,Fake Out,Protect,Def/SpD
+Stunfisk-1,Bold,Binding Band,Snap Trap,Counter,Uproar,Earth Power,Def/SpA
+Shuckle-1,Relaxed,Figy Berry,Covet,Gyro Ball,Protect,Toxic,HP/Def
+Whiscash-1,Adamant,Lum Berry,Dragon Dance,Zen Headbutt,Waterfall,Thrash,Atk/Spe
+Gastrodon-1,Calm,Leftovers,Muddy Water,Spit Up,Stockpile,Yawn,HP/SpD
+Golisopod-1,Modest,Choice Specs,Muddy Water,Sludge Wave,Bug Buzz,Focus Blast,Def/SpA
+Barbaracle-1,Impish,Binding Band,Sandstorm,Whirlpool,Poison Jab,Rest,Def/SpD
+Delibird-1,Timid,Light Clay,Rapid Spin,Icy Wind,Aurora Veil,Hail,HP/Spe
+Cursola-1,Modest,Leftovers,Stealth Rock,Curse,Giga Drain,Protect,HP/SpA
+Grimmsnarl-1,Careful,Rocky Helmet,Taunt,Confide,Spirit Break,Crunch,HP/SpD
+Hatterene-1,Calm,Bright Powder,Nuzzle,Substitute,Draining Kiss,Calm Mind,Def/SpD
+Salazzle-1,Adamant,Air Balloon,Poison Jab,Dragon Claw,Knock Off,Fire Lash,Atk/Spe
+Bisharp-1,Jolly,Chople Berry,Stealth Rock,Thunder Wave,Rock Tomb,Iron Head,Atk/Spe
+Throh-1,Careful,Scope Lens,Rest,Sleep Talk,Revenge,Payback,HP/SpD
+Sawk-1,Jolly,Salac Berry,Quick Guard,Reversal,Throat Chop,Bulk Up,Atk/Spe
+Weezing-1,Relaxed,Leftovers,Curse,Gyro Ball,Play Rough,Will-O-Wisp,Atk/Def
+Sudowoodo-1,Impish,Leftovers,Stealth Rock,Curse,Body Press,Rock Slide,HP/Def
+Clefable-1,Calm,Sitrus Berry,Encore,Light Screen,Dazzling Gleam,Follow Me,Def/SpD
+Togekiss-1,Bold,Rocky Helmet,Encore,Light Screen,Dazzling Gleam,Follow Me,Def/SpD
+Snorlax-1,Adamant,Liechi Berry,Rest,Sleep Talk,Body Slam,Crunch,HP/Atk
+Whimsicott-1,Adamant,Kebia Berry,Charm,U-turn,Play Rough,Seed Bomb,Atk/Spe
+Rhyperior-1,Jolly,Weakness Policy,Rock Polish,Rock Blast,Earthquake,Dragon Rush,Atk/Spe
+Gothitelle-1,Jolly,Razor Fang,Thunder Wave,Zen Headbutt,Rock Slide,Fake Out,Atk/Spe
+Reuniclus-1,Modest,Light Clay,Light Screen,Reflect,Psychic,Shadow Ball,HP/SpA
+Escavalier-1,Relaxed,Occa Berry,Taunt,Metal Burst,Counter,Protect,Def/SpD
+Accelgor-1,Careful,Leftovers,Spikes,Leech Life,Yawn,Protect,HP/SpD
+Beheeyem-1,Sassy,Leftovers,Cosmic Power,Stored Power,Protect,Tri Attack,Def/SpD
+Beartic-1,Adamant,Leftovers,Yawn,Protect,Swords Dance,Frost Breath,HP/Atk
+Braviary-1,Adamant,White Herb,Superpower,U-turn,Retaliate,Protect,Atk/Spe
+Mandibuzz-1,Modest,Roseli Berry,Snarl,Heat Wave,Roost,Defog,Def/SpA
+Drapion-1,Impish,Leftovers,Toxic,Protect,Confuse Ray,Throat Chop,Def/SpD
+Chandelure-1,Bold,Grip Claw,Curse,Fire Spin,Protect,Rest,Def/SpD
+Malamar-1,Relaxed,Binding Band,Wrap,Disable,Rest,Payback,HP/Def
+Weavile-1,Modest,Lum Berry,Icy Wind,Snarl,Reflect,Fake Out,HP/SpA
+Sableye-1,Calm,Leftovers,Will-O-Wisp,Torment,Mean Look,Foul Play,HP/SpD
+Mawile-1,Careful,Eject Button,Sucker Punch,Helping Hand,Power-Up Punch,Baton Pass,Def/SpD
+Maractus-1,Modest,Occa Berry,Rain Dance,Sunny Day,Weather Ball,Solar Beam,SpA/Spe
+Sigilyph-1,Timid,King’s Rock,Tailwind,Air Slash,Light Screen,Reflect,SpA/Spe
+Lucario-1,Brave,Focus Sash,Counter,Extreme Speed,Payback,Bullet Punch,Def/SpD
+Torkoal-1,Calm,Sitrus Berry,Yawn,Stealth Rock,Heat Wave,Protect,Def/SpD
+Mimikyu-1,Jolly,Leftovers,Curse,Protect,Phantom Force,Will-O-Wisp,SpD/Spe
+Copperajah-1,Impish,Leftovers,Whirlwind,Stealth Rock,Heavy Slam,Protect,HP/Def
+Qwilfish-1,Jolly,Bright Powder,Thunder Wave,Waterfall,Minimize,Poison Jab,Atk/Spe
+Jellicent-1,Bold,Colbur Berry,Recover,Scald,Hex,Acid Armor,HP/Def
+Toxapex-1,Careful,Assault Vest,Poison Jab,Liquidation,Payback,Pin Missile,Atk/SpD
+Cramorant-1,Jolly,Binding Band,Dive,Whirlpool,Protect,Fly,Atk/Spe
+Sandaconda-1,Impish,Smooth Rock,Fire Fang,High Horsepower,Stealth Rock,Sandstorm,Atk/Def
+Hippowdon-1,Brave,Smooth Rock,High Horsepower,Stone Edge,Iron Head,Sandstorm,Atk/Def
+Durant-1,Jolly,King’s Rock,Thunder Wave,Rock Slide,Iron Head,Thunder Fang,Atk/Spe
+Heatmor-1,Careful,Binding Band,Fire Spin,Will-O-Wisp,Drain Punch,Protect,HP/SpD
+Heliolisk-1,Jolly,Red Card,Glare,Dragon Tail,U-turn,Volt Switch,SpD/Spe
+Hawlucha-1,Jolly,Red Card,Rock Slide,Throat Chop,Feint,Acrobatics,Atk/Spe
+Flygon-1,Modest,Yache Berry,Dragon Pulse,Earth Power,Bug Buzz,Flamethrower,SpA/Spe
+Haxorus-1,Hasty,Scope Lens,Breaking Swipe,Rock Slide,Leer,Snarl,Atk/Spe
+Runerigus-1,Bold,Rocky Helmet,Will-O-Wisp,Power Split,Night Shade,Body Press,Def/SpD
+Aegislash-1,Relaxed,Sitrus Berry,King’s Shield,Swords Dance,Shadow Sneak,Iron Head,HP/Def
+Rapidash-1,Timid,Leftovers,Protect,Imprison,Psychic,Dazzling Gleam,SpD/Spe
+Polteageist-1,Calm,Leftovers,Curse,Protect,Shadow Ball,Psychic,HP/SpD
+Trevenant-1,Impish,Big Root,Horn Leech,Drain Punch,Will-O-Wisp,Protect,HP/Def
+Shiinotic-1,Calm,Kebia Berry,Spore,Leech Seed,Pollen Puff,Dazzling Gleam,HP/SpD
+Oranguru-1,Adamant,Assault Vest,Earthquake,Zen Headbutt,Brick Break,Last Resort,Atk/SpD
+Passimian-1,Careful,Leftovers,Bulk Up,Drain Punch,Protect,Revenge,HP/SpD
+Morpeko-1,Timid,Lum Berry,Snarl,Electroweb,Protect,Nasty Plot,SpA/Spe
+Falinks-1,Impish,Rocky Helmet,First Impression,Revenge,Payback,Counter,HP/Def
+Lunatone-1,Calm,Binding Band,Moonlight,Sand Tomb,Protect,Psychic,SpA/SpD
+Solrock-1,Impish,Binding Band,Morning Sun,Sand Tomb,Protect,Zen Headbutt,Atk/Def
+Togedemaru-1,Careful,Rocky Helmet,Fake Out,Spiky Shield,Eerie Impulse,Iron Head,HP/SpD
+Frosmoth-1,Calm,Binding Band,Feather Dance,Infestation,Protect,Giga Drain,HP/SpD
+Grapploct-1,Modest,Quick Claw,Muddy Water,Focus Blast,Mud Shot,Detect,SpA/SpD
+Pincurchin-1,Bold,Electric Seed,Spikes,Muddy Water,Discharge,Electric Terrain,Def/SpD
+Mantine-1,Jolly,King’s Rock,Rock Blast,Bullet Seed,Waterfall,Tailwind,Atk/Spe
+Wailord-1,Careful,Leftovers,Protect,Dive,Bounce,Amnesia,HP/SpD
+Avalugg-1,Careful,Icy Rock,Avalanche,High Horsepower,Hail,Aurora Veil,Def/SpD
+Dhelmise-1,Modest,Assault Vest,Grass Knot,Flash Cannon,Shadow Ball,Hydro Pump,SpA/SpD
+Lapras-1,Jolly,King’s Rock,Waterfall,Iron Head,Zen Headbutt,Dragon Dance,Atk/Spe
+Drampa-1,Bold,Sitrus Berry,Icy Wind,Snarl,Dragon Pulse,Protect,Def/SpD
+Turtonator-1,Calm,Weakness Policy,Shell Trap,Dragon Pulse,Flash Cannon,Wide Guard,Def/SpD
+Mr. Rime-1,Quiet,Rocky Helmet,Fake Out,Slack Off,Freeze-Dry,Psychic,Def/SpD
+Darmanitan-1,Jolly,Eject Button,Yawn,U-turn,Ice Fang,Fire Fang,Atk/Spe
+Stonjourner-1,Jolly,Focus Sash,Rock Slide,Body Slam,Wide Guard,Rock Polish,Atk/Spe
+Eiscue-1,Careful,Leftovers,Iron Defense,Amnesia,Icicle Crash,Waterfall,Def/SpD
+Duraludon-1,Sassy,Leftovers,Breaking Swipe,Snarl,Protect,Metal Burst,HP/SpD
+Rotom-1,Timid,Bright Powder,Thunder Wave,Double Team,Thunderbolt,Hex,SpA/Spe
+Ditto-1,Timid,Lum Berry,Transform,,,,HP/Spe
+Dracozolt-1,Impish,Rocky Helmet,Bolt Beak,Dragon Tail,Rest,Sleep Talk,HP/Def
+Arctozolt-1,Impish,Rocky Helmet,Payback,Avalanche,Rest,Sleep Talk,HP/Def
+Dracovish-1,Careful,Binding Band,Whirlpool,Protect,Dive,Leech Life,Def/SpD
+Arctovish-1,Careful,Leftovers,Hail,Blizzard,Aurora Veil,Protect,Def/SpD
+Rillaboom-2,Adamant,Leftovers,Protect,Drain Punch,Swords Dance,Leech Seed,HP/Atk
+Cinderace-2,Adamant,Focus Sash,Blaze Kick,Feint,Focus Energy,Sucker Punch,Atk/Spe
+Inteleon-2,Timid,Bright Powder,Muddy Water,Shadow Ball,Baton Pass,Double Team,SpA/Spe
+Orbeetle-2,Timid,Lum Berry,Iron Defense,Mirror Coat,Recover,Body Press,SpD/Spe
+Butterfree-2,Calm,Big Root,Giga Drain,Draining Kiss,Sleep Powder,Substitute,HP/SpD
+Vikavolt-2,Relaxed,Zoom Lens,Guillotine,Mud-Slap,Thunder Wave,Substitute,Def/SpD
+Noctowl-2,Timid,Bright Powder,Hypnosis,Dream Eater,Substitute,Air Slash,SpA/Spe
+Corviknight-2,Impish,Rocky Helmet,Spite,Swagger,Screech,Fly,HP/Def
+Greedent-2,Relaxed,Rocky Helmet,Rest,Sleep Talk,Super Fang,Payback,HP/Def
+Unfezant-2,Calm,Bright Powder,Air Slash,Attract,Roost,Feather Dance,Def/SpD
+Thievul-2,Jolly,King’s Rock,Sucker Punch,Fire Fang,Thunder Fang,Ice Fang,Atk/Spe
+Obstagoon-2,Careful,Flame Orb,Gunk Shot,Facade,Trick,Obstruct,HP/SpD
+Dubwool-2,Careful,Weakness Policy,Body Slam,Reversal,Baton Pass,Cotton Guard,Def/SpD
+Ludicolo-2,Jolly,King’s Rock,Fake Out,Zen Headbutt,Waterfall,Bullet Seed,Atk/Spe
+Shiftry-2,Modest,Tanga Berry,Dark Pulse,Energy Ball,Heat Wave,Nasty Plot,SpA/Spe
+Drednaw-2,Impish,Red Card,Stealth Rock,Dragon Tail,Razor Shell,Protect,Atk/Def
+Liepard-2,Timid,Bright Powder,Snarl,Hyper Voice,Substitute,Thunder Wave,SpA/Spe
+Boltund-2,Bold,Air Balloon,Eerie Impulse,Charm,Discharge,Hyper Voice,Def/SpD
+Diggersby-2,Impish,Binding Band,Bounce,Dig,Quick Attack,Sand Tomb,Def/SpD
+Cinccino-2,Jolly,Focus Sash,Thunder Wave,U-turn,Encore,Tail Slap,Atk/Spe
+Tsareena-2,Jolly,Light Clay,Light Screen,Reflect,Trop Kick,U-turn,Atk/Spe
+Vileplume-2,Calm,Terrain Extender,Sludge Bomb,Strength Sap,Grassy Terrain,Giga Drain,SpA/SpD
+Bellossom-2,Jolly,Salac Berry,Leaf Blade,Flail,Quiver Dance,Baton Pass,Atk/Spe
+Roserade-2,Calm,Black Sludge,Toxic,Venom Drench,Protect,Giga Drain,HP/SpD
+Pelipper-2,Modest,Damp Rock,Weather Ball,Hurricane,Rain Dance,Protect,Def/SpA
+Galvantula-2,Jolly,Bright Powder,Substitute,Thunder Wave,Leech Life,Double Team,Atk/Spe
+Manectric-2,Timid,Air Balloon,Discharge,Snarl,Hyper Voice,Protect,SpA/Spe
+Ninetales-2,Jolly,Focus Sash,Quick Attack,Flail,Flame Charge,Memento,Atk/Spe
+Arcanine-2,Hasty,Weakness Policy,Overheat,Flare Blitz,Extreme Speed,Howl,Atk/Spe
+Vanilluxe-2,Brave,Zoom Lens,Sheer Cold,Avalanche,Explosion,Ice Shard,Atk/Def
+Mamoswine-2,Bold,Leftovers,Rest,Ancient Power,Fissure,Sleep Talk,HP/Def
+Glalie-2,Jolly,Leftovers,Protect,Substitute,Icicle Crash,Crunch,Atk/Spe
+Froslass-2,Timid,Salac Berry,Destiny Bond,Spikes,Shadow Ball,Ice Beam,SpA/Spe
+Claydol-2,Calm,Weakness Policy,Sunny Day,Sandstorm,Solar Beam,Earth Power,SpD/Spe
+Mudsdale-2,Impish,Zoom Lens,Fissure,Smack Down,Stomping Tantrum,Protect,Atk/Def
+Crustle-2,Careful,Leftovers,Body Press,Stealth Rock,Poison Jab,Protect,HP/SpD
+Golurk-2,Careful,Flame Orb,Facade,Trick,Fly,Dig,Atk/SpD
+Musharna-2,Brave,Room Service,Zen Headbutt,Gyro Ball,Rock Slide,Trick Room,Atk/SpD
+Xatu-2,Timid,Leftovers,Simple Beam,Feather Dance,Protect,Air Slash,SpA/Spe
+Bewear-2,Jolly,King’s Rock,Iron Head,Rock Slide,Zen Headbutt,Stomp,Atk/Spe
+Abomasnow-2,Bold,Leftovers,Protect,Ingrain,Giga Drain,Sheer Cold,HP/Def
+Kingler-2,Modest,Expert Belt,Blizzard,Scald,Ancient Power,Mud Shot,SpA/Spe
+Quagsire-2,Sassy,Bright Powder,Toxic,Protect,Dig,Muddy Water,Def/SpD
+Crawdaunt-2,Brave,Focus Sash,Payback,Protect,Revenge,Avalanche,Atk/Def
+Ninjask-2,Jolly,Liechi Berry,X-Scissor,Acrobatics,Flail,Endure,Atk/Spe
+Shedinja-2,Jolly,Bright Powder,Confuse Ray,Mud-Slap,Shadow Sneak,Protect,Atk/Spe
+Hitmonlee-2,Jolly,Focus Sash,Fake Out,Reversal,Bullet Punch,Protect,Atk/Spe
+Hitmonchan-2,Adamant,Focus Sash,Mach Punch,Feint,Detect,Counter,Atk/SpD
+Hitmontop-2,Adamant,Focus Sash,Endeavor,Feint,Sucker Punch,Detect,Atk/Spe
+Pangoro-2,Modest,Quick Claw,Seismic Toss,Grass Knot,Foul Play,Surf,HP/SpA
+Klinklang-2,Adamant,Leftovers,Protect,Wild Charge,Gear Grind,Shift Gear,Atk/Spe
+Vespiquen-2,Careful,Leftovers,Defend Order,Toxic,Fell Stinger,Protect,Def/SpD
+Bronzong-2,Impish,Toxic Orb,Trick,Stealth Rock,Heavy Slam,Protect,Def/SpD
+Gardevoir-2,Modest,Terrain Extender,Wish,Future Sight,Draining Kiss,Psychic Terrain,SpA/SpD
+Gallade-2,Jolly,Focus Sash,Destiny Bond,Close Combat,Shadow Sneak,Knock Off,Atk/Spe
+Drifblim-2,Calm,Apicot Berry,Hex,Will-O-Wisp,Calm Mind,Baton Pass,HP/SpD
+Eldegoss-2,Bold,Leftovers,Leech Seed,Cotton Guard,Pollen Puff,Giga Drain,Def/SpD
+Cherrim-2,Modest,Lum Berry,Petal Dance,Helping Hand,Protect,Sunny Day,Def/SpA
+Skuntank-2,Jolly,King’s Rock,Toxic,Protect,Dig,Sucker Punch,Atk/Spe
+Seismitoad-2,Adamant,Big Root,Toxic,Bounce,Protect,Drain Punch,Atk/Def
+Dusknoir-2,Calm,Leftovers,Curse,Will-O-Wisp,Hex,Protect,Def/SpD
+Machamp-2,Adamant,Flame Orb,Facade,Seismic Toss,Fling,Bullet Punch,Atk/Def
+Gengar-2,Jolly,Mental Herb,Perish Song,Will-O-Wisp,Mean Look,Drain Punch,Atk/Spe
+Gyarados-2,Jolly,Eject Button,Giga Impact,Outrage,Thrash,Stone Edge,Atk/Spe
+Seaking-2,Calm,Bright Powder,Acupressure,Soak,Mud-Slap,Horn Drill,HP/SpD
+Octillery-2,Quiet,Quick Claw,Water Spout,Liquidation,Seed Bomb,Gunk Shot,Atk/SpA
+Cloyster-2,Adamant,Expert Belt,Poison Jab,Smart Strike,Icicle Crash,Razor Shell,Atk/Spe
+Milotic-2,Jolly,Weakness Policy,Coil,Breaking Swipe,Aqua Tail,Iron Tail,Atk/Spe
+Basculin-2,Jolly,Salac Berry,Endure,Aqua Jet,Reversal,Endeavor,Atk/Spe
+Wishiwashi-2,Calm,Leftovers,Scald,Ice Beam,Protect,Tearful Look,SpA/SpD
+Pyukumuku-2,Relaxed,Rocky Helmet,Swagger,Protect,Toxic,Recover,Def/SpD
+Garbodor-2,Modest,Sitrus Berry,Autotomize,Belch,Focus Blast,Dark Pulse,SpA/Spe
+Centiskorch-2,Jolly,Charti Berry,Thunder Fang,Fire Fang,Lunge,Knock Off,Atk/Spe
+Coalossal-2,Adamant,Expert Belt,Tar Shot,Heat Crash,High Horsepower,Iron Head,Atk/Def
+Dugtrio-2,Adamant,Bright Powder,Sandstorm,Fissure,Hone Claws,Rock Slide,Atk/Spe
+Excadrill-2,Careful,Focus Sash,Horn Drill,Fissure,Rest,Sleep Talk,HP/SpD
+Gigalith-2,Impish,Quick Claw,Iron Head,Rock Slide,Curse,Body Press,Atk/Def
+Conkeldurr-2,Impish,Bright Powder,Focus Punch,Substitute,Payback,Mach Punch,Atk/Def
+Swoobat-2,Timid,Bright Powder,Skill Swap,Charm,Fake Tears,Air Slash,SpA/Spe
+Noivern-2,Jolly,Red Card,Super Fang,U-turn,Acrobatics,Shadow Claw,Atk/Spe
+Steelix-2,Relaxed,Leftovers,Dragon Tail,Stealth Rock,Payback,Protect,Def/SpD
+Barraskewda-2,Jolly,Bright Powder,Acupressure,Rest,Sleep Talk,Waterfall,Atk/Spe
+Perrserker-2,Impish,Toxic Orb,Covet,Fling,Iron Head,Protect,HP/Def
+Alcremie-2,Calm,Red Card,Magic Room,Decorate,Helping Hand,Dazzling Gleam,Def/SpD
+Ribombee-2,Timid,Big Root,Quiver Dance,Baton Pass,Draining Kiss,Stun Spore,SpD/Spe
+Ferrothorn-2,Sassy,Leftovers,Rest,Sleep Talk,Curse,Gyro Ball,Def/SpD
+Gourgeist-2,Modest,Expert Belt,Shadow Ball,Foul Play,Energy Ball,Trick-or-Treat,SpA/Spe
+Raichu-2,Jolly,Heavy-Duty Boots,Nuzzle,Speed Swap,Volt Switch,Fake Out,Atk/Spe
+Vaporeon-2,Modest,Damp Rock,Weather Ball,Ice Beam,Rain Dance,Shadow Ball,HP/SpA
+Jolteon-2,Calm,Damp Rock,Weather Ball,Thunder,Rain Dance,Shadow Ball,SpD/Spe
+Flareon-2,Calm,Heat Rock,Weather Ball,Shadow Ball,Sunny Day,Hyper Voice,SpA/SpD
+Espeon-2,Timid,Sticky Barb,Skill Swap,Trick,Psyshock,Protect,SpA/Spe
+Umbreon-2,Quiet,Bright Powder,Dark Pulse,Shadow Ball,Mud-Slap,Hyper Voice,HP/SpA
+Leafeon-2,Bold,Heat Rock,Weather Ball,Solar Beam,Sunny Day,Hyper Voice,Def/SpA
+Glaceon-2,Bold,Icy Rock,Weather Ball,Freeze-Dry,Hail,Hyper Voice,Def/SpA
+Sylveon-2,Calm,Misty Seed,Reflect,Dazzling Gleam,Mystical Fire,Misty Terrain,SpA/SpD
+Slurpuff-2,Modest,Sitrus Berry,Cotton Spore,Light Screen,Dazzling Gleam,Thunderbolt,SpA/SpD
+Aromatisse-2,Quiet,Mental Herb,Trick Room,Dazzling Gleam,Encore,After You,HP/SpA
+Araquanid-2,Relaxed,Rocky Helmet,Mirror Coat,Lunge,Scald,Aqua Ring,HP/Def
+Wobbuffet-2,Bold,Rocky Helmet,Counter,Mirror Coat,Encore,Destiny Bond,HP/Def
+Sirfetch'd-2,Impish,Power Herb,Focus Energy,Night Slash,Leaf Blade,Sky Attack,Atk/Def
+Lanturn-2,Modest,Rocky Helmet,Soak,Thunderbolt,Rest,Sleep Talk,SpA/SpD
+Toxicroak-2,Impish,Black Sludge,Bulk Up,Drain Punch,Bullet Punch,Protect,Atk/Def
+Scrafty-2,Careful,Roseli Berry,Rest,Sleep Talk,Power-Up Punch,Crunch,Def/SpD
+Stunfisk-2,Impish,Grip Claw,Snap Trap,Pain Split,Sucker Punch,Protect,HP/Def
+Shuckle-2,Relaxed,Bright Powder,Power Trick,Stone Edge,Gyro Ball,Earthquake,HP/Def
+Whiscash-2,Modest,Rindo Berry,Belch,Muddy Water,Scald,Future Sight,SpA/SpD
+Gastrodon-2,Modest,Rindo Berry,Rain Dance,Sandstorm,Weather Ball,Earth Power,SpA/SpD
+Golisopod-2,Adamant,Scope Lens,First Impression,Shadow Claw,Razor Shell,Drill Run,Atk/Def
+Barbaracle-2,Impish,Rocky Helmet,Bulk Up,Razor Shell,Sleep Talk,Rest,HP/Def
+Delibird-2,Adamant,King’s Rock,Quick Attack,Fake Out,Ice Shard,Destiny Bond,Atk/Spe
+Cursola-2,Bold,Rocky Helmet,Will-O-Wisp,Strength Sap,Hex,Amnesia,Def/SpD
+Grimmsnarl-2,Impish,Bright Powder,Swagger,Power Swap,Leech Life,Superpower,HP/Def
+Hatterene-2,Modest,Expert Belt,Magic Powder,Shadow Ball,Dazzling Gleam,Mystical Fire,SpA/SpD
+Salazzle-2,Jolly,Bright Powder,Toxic,Protect,Mud-Slap,Leech Life,HP/Spe
+Bisharp-2,Impish,Razor Fang,Guillotine,Thunder Wave,Night Slash,Psycho Cut,Def/SpD
+Throh-2,Adamant,Binding Band,Bind,Poison Jab,Protect,Dig,Atk/Def
+Sawk-2,Jolly,King’s Rock,Earthquake,Rock Slide,Zen Headbutt,Low Sweep,Atk/Spe
+Weezing-2,Modest,Quick Claw,Wonder Room,Haze,Dazzling Gleam,Sludge Wave,Def/SpA
+Sudowoodo-2,Impish,Binding Band,Dig,Sucker Punch,Sand Tomb,Protect,Def/SpD
+Clefable-2,Sassy,Rocky Helmet,Metronome,Protect,Moonlight,Follow Me,HP/SpD
+Togekiss-2,Timid,King’s Rock,Thunder Wave,Air Slash,Extrasensory,Morning Sun,SpA/Spe
+Snorlax-2,Impish,Leftovers,Yawn,Protect,Heavy Slam,Heat Crash,Atk/Def
+Whimsicott-2,Calm,Leftovers,Nature Power,Grassy Terrain,Misty Terrain,Leech Seed,HP/SpD
+Rhyperior-2,Brave,Passho Berry,Rock Slide,High Horsepower,Ice Punch,Protect,Atk/SpD
+Gothitelle-2,Calm,Lum Berry,Protect,Imprison,Future Sight,Nasty Plot,Def/SpD
+Reuniclus-2,Brave,Mental Herb,Trick Room,Gyro Ball,Zen Headbutt,Rock Slide,HP/Atk
+Escavalier-2,Adamant,Rocky Helmet,Fell Stinger,Screech,Rest,Sleep Talk,Atk/SpD
+Accelgor-2,Timid,Bright Powder,Final Gambit,U-turn,Feint,Protect,HP/Spe
+Beheeyem-2,Sassy,Mental Herb,Protect,Trick Room,Imprison,Psychic,SpA/SpD
+Beartic-2,Modest,Bright Powder,Hail,Rain Dance,Liquidation,Frost Breath,Atk/Spe
+Braviary-2,Jolly,Eject Pack,Brave Bird,Close Combat,Giga Impact,Protect,Atk/Spe
+Mandibuzz-2,Modest,Quick Claw,Air Slash,Dark Pulse,Heat Wave,Nasty Plot,SpA/Spe
+Drapion-2,Jolly,Big Root,Acupressure,Rest,Sleep Talk,Leech Life,Def/Spe
+Chandelure-2,Quiet,Sitrus Berry,Trick Room,Curse,Flamethrower,Shadow Ball,Def/SpA
+Malamar-2,Adamant,Scope Lens,Superpower,Foul Play,Protect,Psycho Cut,Atk/Spe
+Weavile-2,Brave,Focus Sash,Fake Out,Counter,Ice Shard,Feint,HP/Atk
+Sableye-2,Sassy,Roseli Berry,Fake Out,Metal Burst,Sucker Punch,Taunt,Def/SpD
+Mawile-2,Modest,Focus Sash,Flash Cannon,Dark Pulse,Flamethrower,Ice Beam,HP/SpA
+Maractus-2,Careful,Leftovers,Cotton Guard,Leech Seed,Spiky Shield,Sucker Punch,HP/SpD
+Sigilyph-2,Calm,Flame Orb,Psycho Shift,Stored Power,Roost,Calm Mind,HP/SpD
+Lucario-2,Naive,Assault Vest,Detect,Bullet Punch,Aura Sphere,Psychic,Atk/Spe
+Torkoal-2,Modest,Bright Powder,Eruption,Lava Plume,Earth Power,Sludge Bomb,Def/SpA
+Mimikyu-2,Jolly,Lum Berry,Curse,Substitute,Pain Split,Play Rough,HP/Spe
+Copperajah-2,Modest,Sitrus Berry,Belch,Earth Power,Flash Cannon,Snarl,HP/SpA
+Qwilfish-2,Impish,Leftovers,Toxic,Spikes,Protect,Dive,HP/Def
+Jellicent-2,Calm,Binding Band,Whirlpool,Protect,Recover,Night Shade,HP/SpD
+Toxapex-2,Calm,Binding Band,Toxic,Baneful Bunker,Muddy Water,Infestation,Def/SpD
+Cramorant-2,Timid,Wacan Berry,Surf,Air Slash,Ice Beam,Belch,SpA/Spe
+Sandaconda-2,Relaxed,Grip Claw,Sand Tomb,Dig,Glare,Protect,HP/Def
+Hippowdon-2,Careful,Leftovers,Stealth Rock,Yawn,Whirlwind,High Horsepower,HP/SpD
+Durant-2,Impish,Grip Claw,Entrainment,Infestation,Giga Impact,Stomping Tantrum,HP/Def
+Heatmor-2,Brave,Expert Belt,Fire Lash,Thunder Punch,Rock Tomb,Sucker Punch,HP/Atk
+Heliolisk-2,Modest,Bright Powder,Thunderbolt,Weather Ball,Dark Pulse,Sandstorm,SpA/Spe
+Hawlucha-2,Adamant,Focus Sash,Encore,Swords Dance,Acrobatics,High Jump Kick,Atk/Spe
+Flygon-2,Adamant,Choice Scarf,U-turn,Earthquake,Rock Slide,Fire Punch,Atk/Spe
+Haxorus-2,Jolly,Lum Berry,Attract,Outrage,Earthquake,Poison Jab,Atk/Spe
+Runerigus-2,Sassy,Leftovers,Curse,Protect,Amnesia,Stone Edge,HP/SpD
+Aegislash-2,Sassy,Assault Vest,Shadow Sneak,Sacred Sword,Shadow Ball,Flash Cannon,HP/SpD
+Rapidash-2,Modest,Kasib Berry,Psychic,Dazzling Gleam,Mystical Fire,Calm Mind,SpA/Spe
+Polteageist-2,Modest,Petaya Berry,Teatime,Giga Drain,Shadow Ball,Psychic,SpA/Spe
+Trevenant-2,Adamant,Quick Claw,Forest’s Curse,X-Scissor,Poison Jab,Shadow Claw,Atk/SpD
+Shiinotic-2,Modest,Leftovers,Rain Dance,Sunny Day,Weather Ball,Solar Beam,HP/SpA
+Oranguru-2,Calm,Sitrus Berry,Yawn,Dream Eater,Foul Play,Instruct,HP/SpD
+Passimian-2,Jolly,Focus Sash,Knock Off,Feint,Reversal,Counter,Atk/Spe
+Morpeko-2,Jolly,Heavy-Duty Boots,Volt Switch,Parting Shot,Fake Out,Taunt,Atk/Spe
+Falinks-2,Jolly,King’s Rock,No Retreat,Rock Slide,Iron Head,Zen Headbutt,Atk/Spe
+Lunatone-2,Bold,Light Clay,Reflect,Stealth Rock,Psychic,Explosion,HP/Def
+Solrock-2,Careful,Light Clay,Light Screen,Stealth Rock,Zen Headbutt,Explosion,HP/SpD
+Togedemaru-2,Adamant,Shuca Berry,Nuzzle,Wish,Volt Switch,U-turn,Atk/Spe
+Frosmoth-2,Timid,Occa Berry,Tailwind,Ice Beam,Air Slash,Bug Buzz,SpA/Spe
+Grapploct-2,Careful,Binding Band,Bind,Detect,Power-Up Punch,Dive,Def/SpD
+Pincurchin-2,Sassy,Rocky Helmet,Recover,Acupressure,Scald,Thunderbolt,Def/SpD
+Mantine-2,Calm,Damp Rock,Scald,Air Slash,Aqua Ring,Rain Dance,HP/SpD
+Wailord-2,Impish,Grip Claw,Fissure,Soak,Whirlpool,Body Slam,HP/Def
+Avalugg-2,Impish,Leftovers,Avalanche,High Horsepower,Body Press,Curse,HP/Def
+Dhelmise-2,Relaxed,Binding Band,Whirlpool,Protect,Giga Drain,Phantom Force,Def/SpD
+Lapras-2,Sassy,Zoom Lens,Rest,Sleep Talk,Sheer Cold,Horn Drill,Def/SpD
+Drampa-2,Timid,Red Card,Dragon Pulse,Extrasensory,Flamethrower,Glare,SpD/Spe
+Turtonator-2,Timid,Life Orb,Shell Smash,Flamethrower,Dragon Pulse,Flash Cannon,SpA/Spe
+Mr. Rime-2,Calm,Terrain Extender,Icy Wind,Dazzling Gleam,Psychic,Psychic Terrain,SpA/SpD
+Darmanitan-2,Adamant,Charti Berry,Power-Up Punch,Fire Punch,Ice Punch,Body Slam,Atk/Spe
+Stonjourner-2,Careful,Quick Claw,Imprison,Protect,Rock Slide,Earthquake,HP/SpD
+Eiscue-2,Modest,Icy Rock,Hail,Blizzard,Aurora Veil,Surf,SpA/Spe
+Duraludon-2,Jolly,Lum Berry,Swords Dance,Dragon Claw,Iron Head,Brick Break,Atk/Spe
+Rotom-2,Timid,Leftovers,Will-O-Wisp,Protect,Thunderbolt,Hex,SpA/Spe
+Ditto-2,Timid,Bright Powder,Transform,,,,HP/Spe
+Dracozolt-2,Adamant,Zoom Lens,Dragon Rush,Bolt Beak,Stone Edge,Iron Tail,Atk/Def
+Arctozolt-2,Impish,Leftovers,Taunt,Thunder Fang,Ice Fang,Rock Slide,HP/Def
+Dracovish-2,Jolly,Choice Scarf,Crunch,Ice Fang,Psychic Fangs,Super Fang,Atk/Spe
+Arctovish-2,Careful,Icy Rock,Hail,Blizzard,Aurora Veil,Hydro Pump,Def/SpD
+Rillaboom-3,Adamant,Life Orb,Drum Beating,High Horsepower,Darkest Lariat,Body Slam,Atk/Spe
+Cinderace-3,Jolly,King’s Rock,Double Kick,Fire Fang,Zen Headbutt,Iron Head,Atk/Spe
+Inteleon-3,Adamant,Assault Vest,Sucker Punch,Waterfall,Icicle Spear,Fell Stinger,Atk/Spe
+Orbeetle-3,Modest,Expert Belt,Psychic,Bug Buzz,Shadow Ball,Energy Ball,SpA/Spe
+Butterfree-3,Timid,Choice Scarf,Air Slash,Bug Buzz,Energy Ball,Shadow Ball,SpA/Spe
+Vikavolt-3,Adamant,Life Orb,Wild Charge,X-Scissor,Poison Jab,Crunch,Atk/Def
+Noctowl-3,Modest,Throat Spray,Hurricane,Hyper Voice,Moonblast,Shadow Ball,SpA/Spe
+Corviknight-3,Modest,Leftovers,Fake Tears,Nasty Plot,Flash Cannon,Hurricane,HP/SpA
+Greedent-3,Brave,Quick Claw,Body Slam,Psychic Fangs,Crunch,Seed Bomb,HP/Atk
+Unfezant-3,Timid,King’s Rock,Air Slash,Heat Wave,Detect,Defog,SpA/Spe
+Thievul-3,Modest,Lum Berry,Dark Pulse,Grass Knot,Psychic,Parting Shot,SpA/Spe
+Obstagoon-3,Jolly,Salac Berry,Cross Chop,Night Slash,Cross Poison,Focus Energy,Atk/Spe
+Dubwool-3,Jolly,Lum Berry,Body Slam,Zen Headbutt,Body Press,Cotton Guard,Atk/Spe
+Ludicolo-3,Timid,Damp Rock,Surf,Energy Ball,Ice Beam,Rain Dance,SpA/Spe
+Shiftry-3,Adamant,Heat Rock,Solar Blade,Throat Chop,Fake Out,Sunny Day,Atk/Spe
+Drednaw-3,Impish,Leftovers,Protect,Liquidation,Poison Jab,Jaw Lock,HP/Def
+Liepard-3,Timid,Focus Sash,Dark Pulse,Hyper Voice,Shadow Ball,Nasty Plot,SpA/Spe
+Boltund-3,Jolly,King’s Rock,Psychic Fangs,Crunch,Fire Fang,Thunder Fang,Atk/Spe
+Diggersby-3,Modest,Assault Vest,Earth Power,Sludge Bomb,Uproar,Foul Play,SpA/Spe
+Cinccino-3,Calm,Assault Vest,Hyper Voice,Thunderbolt,Grass Knot,Dazzling Gleam,HP/SpD
+Tsareena-3,Jolly,Assault Vest,Low Kick,Trop Kick,Acrobatics,Zen Headbutt,Atk/Spe
+Vileplume-3,Impish,Black Sludge,Toxic,Protect,Leech Seed,Drain Punch,Def/SpD
+Bellossom-3,Adamant,Expert Belt,Leaf Blade,Drain Punch,Play Rough,Swords Dance,Atk/Spe
+Roserade-3,Jolly,Focus Sash,Power Whip,Poison Jab,Body Slam,Swords Dance,Atk/Spe
+Pelipper-3,Adamant,Focus Sash,Liquidation,Knock Off,Brave Bird,Seed Bomb,Atk/Spe
+Galvantula-3,Adamant,Expert Belt,Lunge,Volt Switch,Cross Poison,Sucker Punch,Atk/Spe
+Manectric-3,Adamant,Assault Vest,Psychic Fangs,Crunch,Ice Fang,Volt Switch,Atk/Spe
+Ninetales-3,Adamant,Sitrus Berry,Flare Blitz,Iron Tail,Zen Headbutt,Protect,Atk/Spe
+Arcanine-3,Timid,Eject Button,Burn Up,Fire Blast,Dragon Pulse,Extreme Speed,SpA/Spe
+Vanilluxe-3,Quiet,Icy Rock,Blizzard,Flash Cannon,Aurora Veil,Hail,HP/SpA
+Mamoswine-3,Brave,Lum Berry,High Horsepower,Avalanche,Curse,Body Press,Atk/Def
+Glalie-3,Serious,Icy Rock,Blizzard,Shadow Ball,Protect,Hail,HP/Spe
+Froslass-3,Modest,Expert Belt,Thunderbolt,Ice Beam,Shadow Ball,Psychic,SpA/Spe
+Claydol-3,Brave,Room Service,Explosion,Zen Headbutt,Drill Run,Trick Room,Atk/Def
+Mudsdale-3,Sassy,Rocky Helmet,Counter,Rest,Sleep Talk,Payback,HP/SpD
+Crustle-3,Adamant,Scope Lens,Night Slash,Slash,Stone Edge,Protect,Atk/Spe
+Golurk-3,Adamant,Expert Belt,Drain Punch,Shadow Punch,Thunder Punch,Fire Punch,Atk/Def
+Musharna-3,Bold,Life Orb,Rest,Sleep Talk,Moonblast,Psychic,HP/Def
+Xatu-3,Adamant,Heavy-Duty Boots,U-turn,Sucker Punch,Drill Peck,Zen Headbutt,Atk/Spe
+Bewear-3,Brave,Quick Claw,Hammer Arm,Ice Punch,Thunder Punch,Zen Headbutt,HP/Atk
+Abomasnow-3,Modest,Icy Rock,Blizzard,Energy Ball,Hail,Aurora Veil,HP/SpA
+Kingler-3,Adamant,Choice Scarf,X-Scissor,High Horsepower,Liquidation,Brick Break,Atk/Spe
+Quagsire-3,Quiet,Shell Bell,Muddy Water,Sludge Wave,Rest,Sleep Talk,HP/SpA
+Crawdaunt-3,Modest,Quick Claw,Scald,Dark Pulse,Ice Beam,Nasty Plot,SpA/SpD
+Ninjask-3,Modest,Life Orb,Air Slash,Bug Buzz,Shadow Ball,Protect,SpA/Spe
+Shedinja-3,Modest,Quick Claw,Shadow Ball,Bug Buzz,Shadow Sneak,Protect,SpA/Spe
+Hitmonlee-3,Adamant,Salac Berry,Brick Break,Blaze Kick,Throat Chop,Poison Jab,Atk/Spe
+Hitmonchan-3,Careful,Bright Powder,Focus Punch,Substitute,Fake Out,Detect,Atk/SpD
+Hitmontop-3,Jolly,Salac Berry,Fake Out,Drill Run,Stone Edge,Focus Energy,Atk/Spe
+Pangoro-3,Adamant,Assault Vest,Hammer Arm,Thunder Punch,Ice Punch,Fire Punch,Atk/SpD
+Klinklang-3,Quiet,Room Service,Trick Room,Thunder Wave,Discharge,Flash Cannon,Def/SpA
+Vespiquen-3,Adamant,Charti Berry,Attack Order,Acrobatics,Cross Poison,Protect,Atk/Def
+Bronzong-3,Modest,Leftovers,Psychic,Flash Cannon,Protect,Calm Mind,SpA/SpD
+Gardevoir-3,Timid,Expert Belt,Dazzling Gleam,Mystical Fire,Psychic,Energy Ball,SpA/Spe
+Gallade-3,Jolly,Razor Fang,Psycho Cut,Night Slash,Slash,Stone Edge,Atk/Spe
+Drifblim-3,Adamant,Liechi Berry,Phantom Force,Acrobatics,Body Slam,Protect,Atk/Spe
+Eldegoss-3,Modest,Heat Rock,Weather Ball,Solar Beam,Growth,Sunny Day,SpA/SpD
+Cherrim-3,Modest,Focus Sash,Dazzling Gleam,Nature Power,Solar Beam,Sunny Day,SpA/SpD
+Skuntank-3,Modest,Petaya Berry,Flamethrower,Dark Pulse,Shadow Ball,Belch,SpA/Spe
+Seismitoad-3,Modest,Rindo Berry,Sludge Wave,Muddy Water,Focus Blast,Earth Power,SpA/SpD
+Dusknoir-3,Quiet,Mental Herb,Trick Room,Shadow Ball,Focus Blast,Psychic,SpA/SpD
+Machamp-3,Jolly,Choice Scarf,Dynamic Punch,Throat Chop,Darkest Lariat,Rock Slide,Atk/Spe
+Gengar-3,Jolly,Bright Powder,Curse,Protect,Sucker Punch,Phantom Force,Atk/Spe
+Gyarados-3,Modest,Life Orb,Rain Dance,Hurricane,Thunder,Hydro Pump,SpA/Spe
+Seaking-3,Modest,Damp Rock,Blizzard,Hydro Pump,Mud Shot,Rain Dance,SpA/Spe
+Octillery-3,Modest,Expert Belt,Ice Beam,Flamethrower,Hydro Pump,Energy Ball,SpA/SpD
+Cloyster-3,Relaxed,Leftovers,Protect,Blizzard,Life Dew,Toxic Spikes,Def/SpD
+Milotic-3,Calm,Rocky Helmet,Sleep Talk,Rest,Mirror Coat,Scald,HP/SpD
+Basculin-3,Jolly,King’s Rock,Agility,Waterfall,Zen Headbutt,Ice Fang,Atk/Spe
+Wishiwashi-3,Adamant,Expert Belt,Liquidation,Earthquake,Rest,Sleep Talk,Atk/Def
+Pyukumuku-3,Sassy,Sitrus Berry,Counter,Mirror Coat,Taunt,Protect,Def/SpD
+Garbodor-3,Sassy,Black Sludge,Toxic,Venom Drench,Protect,Psychic,HP/SpD
+Centiskorch-3,Modest,White Herb,Sunny Day,Solar Beam,Overheat,Bug Buzz,SpA/SpD
+Coalossal-3,Modest,Assault Vest,Earth Power,Fire Blast,Ancient Power,Burn Up,Def/SpA
+Dugtrio-3,Jolly,Focus Sash,Sucker Punch,Reversal,Memento,Earthquake,Atk/Spe
+Excadrill-3,Adamant,King’s Rock,Swords Dance,Drill Run,Shadow Claw,Rock Blast,Atk/Spe
+Gigalith-3,Adamant,Eject Pack,Superpower,Heavy Slam,Stone Edge,Earthquake,Atk/Def
+Conkeldurr-3,Adamant,Expert Belt,Fire Punch,Ice Punch,Thunder Punch,Power-Up Punch,Atk/Def
+Swoobat-3,Modest,Petaya Berry,Stored Power,Heat Wave,Energy Ball,Calm Mind,SpA/Spe
+Noivern-3,Adamant,Yache Berry,Dragon Rush,Wild Charge,Iron Tail,Acrobatics,Atk/Spe
+Steelix-3,Brave,Quick Claw,Rock Slide,Thunder Fang,Iron Head,Ice Fang,Atk/SpD
+Barraskewda-3,Adamant,Focus Sash,Drill Run,Night Slash,Slash,Focus Energy,Atk/Spe
+Perrserker-3,Careful,Assault Vest,Fake Out,Iron Head,Play Rough,Crunch,Atk/SpD
+Alcremie-3,Calm,Leftovers,Calm Mind,Dazzling Gleam,Protect,Misty Terrain,SpA/SpD
+Ribombee-3,Timid,Quick Claw,Speed Swap,Dazzling Gleam,Pollen Puff,Helping Hand,SpA/Spe
+Ferrothorn-3,Relaxed,Rocky Helmet,Leech Seed,Toxic,Stealth Rock,Knock Off,Def/SpD
+Gourgeist-3,Impish,Leftovers,Will-O-Wisp,Leech Seed,Bullet Seed,Phantom Force,HP/Def
+Raichu-3,Modest,Blunder Policy,Thunder,Focus Blast,Grass Knot,Surf,SpA/Spe
+Vaporeon-3,Modest,Leftovers,Scald,Protect,Wish,Shadow Ball,HP/SpA
+Jolteon-3,Timid,Air Balloon,Discharge,Hyper Voice,Light Screen,Protect,SpA/Spe
+Flareon-3,Modest,Leftovers,Lava Plume,Hyper Voice,Growl,Protect,SpA/SpD
+Espeon-3,Modest,Choice Scarf,Future Sight,Growl,Magic Room,Dazzling Gleam,SpA/SpD
+Umbreon-3,Calm,Leftovers,Protect,Wish,Foul Play,Taunt,Def/SpD
+Leafeon-3,Impish,Rocky Helmet,Solar Blade,Sunny Day,Synthesis,Charm,Atk/Def
+Glaceon-3,Modest,Assault Vest,Mirror Coat,Ice Beam,Shadow Ball,Ice Shard,SpA/SpD
+Sylveon-3,Modest,Lum Berry,Hyper Voice,Calm Mind,Rest,Psyshock,HP/SpA
+Flapple-1,Modest,Yache Berry,Dragon Pulse,Energy Ball,Air Slash,Protect,SpA/Spe
+Appletun-1,Brave,Yache Berry,Curse,Gyro Ball,Body Press,Bullet Seed,HP/Atk
+Meowstic-Male-1,Calm,Light Clay,Reflect,Light Screen,Psyshock,Fake Out,SpD/Spe
+Meowstic-Female-2,Timid,Scope Lens,Extrasensory,Energy Ball,Dark Pulse,Fake Out,SpA/Spe
+Slurpuff-3,Adamant,Leftovers,Play Rough,Drain Punch,Protect,Cotton Guard,Atk/SpD
+Aromatisse-3,Relaxed,Weakness Policy,Trick Room,Dazzling Gleam,Gyro Ball,Drain Punch,Def/SpD
+Araquanid-3,Modest,Leftovers,Scald,Bug Buzz,Ice Beam,Protect,SpA/SpD
+Wobbuffet-3,Calm,Quick Claw,Counter,Mirror Coat,Encore,Destiny Bond,HP/SpD
+Sirfetch'd-3,Impish,Assault Vest,Counter,Feint,First Impression,Knock Off,Def/SpD
+Lanturn-3,Modest,Choice Specs,Discharge,Surf,Blizzard,Dazzling Gleam,SpA/SpD
+Toxicroak-3,Modest,Payapa Berry,Focus Blast,Dark Pulse,Belch,Vacuum Wave,SpA/Spe
+Scrafty-3,Adamant,Assault Vest,Drain Punch,Throat Chop,Ice Punch,Iron Head,HP/Atk
+Stunfisk-3,Modest,Assault Vest,Muddy Water,Earth Power,Sludge Wave,Flash Cannon,SpA/SpD
+Shuckle-3,Impish,Red Card,Stealth Rock,Encore,Sticky Web,Rock Tomb,HP/Def
+Whiscash-3,Modest,Damp Rock,Hydro Pump,Earth Power,Blizzard,Rain Dance,HP/SpA
+Gastrodon-3,Adamant,Quick Claw,Earthquake,Waterfall,Body Slam,Stone Edge,Atk/SpD
+Golisopod-3,Adamant,Life Orb,Aqua Jet,Sucker Punch,First Impression,Liquidation,Atk/SpD
+Barbaracle-3,Jolly,Rindo Berry,Shell Smash,Liquidation,Rock Slide,Cross Chop,Atk/Spe
+Delibird-3,Modest,Focus Sash,Protect,Freeze-Dry,Ice Shard,Counter,SpA/Spe
+Cursola-3,Adamant,Weakness Policy,Shadow Ball,Revenge,Stone Edge,Leech Life,Atk/SpD
+Grimmsnarl-3,Quiet,Quick Claw,Nasty Plot,Dazzling Gleam,Focus Blast,Dark Pulse,SpA/SpD
+Hatterene-3,Adamant,Quick Claw,Psycho Cut,Play Rough,Power Whip,Swords Dance,Atk/Def
+Salazzle-3,Modest,Life Orb,Fake Out,Flamethrower,Sludge Bomb,Dragon Pulse,SpA/Spe
+Bisharp-3,Adamant,Expert Belt,Iron Head,Night Slash,Brick Break,Psycho Cut,Atk/Spe
+Throh-3,Impish,Flame Orb,Facade,Seismic Toss,Fling,Rest,HP/Def
+Sawk-3,Adamant,Expert Belt,Brick Break,Ice Punch,Poison Jab,Throat Chop,Atk/Spe
+Weezing-3,Impish,Black Sludge,Toxic,Protect,Pain Split,Strange Steam,HP/Def
+Sudowoodo-3,Adamant,Expert Belt,Stone Edge,Sucker Punch,Earthquake,Ice Punch,Atk/Def
+Clefable-3,Calm,Leftovers,Protect,Cosmic Power,Moonblast,Stored Power,HP/SpD
+Togekiss-3,Brave,Assault Vest,Extreme Speed,Play Rough,Zen Headbutt,Brick Break,Atk/SpD
+Snorlax-3,Adamant,Quick Claw,Body Slam,High Horsepower,Fire Punch,Ice Punch,Atk/SpD
+Whimsicott-3,Bold,Eject Button,Dazzling Gleam,Hurricane,Tailwind,Taunt,Def/SpA
+Rhyperior-3,Brave,Rindo Berry,Rock Slide,High Horsepower,Thunder Punch,Protect,Atk/SpD
+Gothitelle-3,Timid,Choice Scarf,Trick,Torment,Psychic,Dark Pulse,SpD/Spe
+Reuniclus-3,Brave,Toxic Orb,Trick,Protect,Pain Split,Drain Punch,HP/Atk
+Escavalier-3,Adamant,Sitrus Berry,Night Slash,Slash,Drill Run,Megahorn,Atk/Def
+Accelgor-3,Adamant,Focus Sash,Toxic,Protect,U-turn,Drain Punch,Atk/Spe
+Beheeyem-3,Quiet,Weakness Policy,Psychic,Psyshock,Energy Ball,Psychic Terrain,SpA/SpD
+Beartic-3,Jolly,King’s Rock,Icicle Crash,Low Kick,Rock Slide,Throat Chop,Atk/Spe
+Braviary-3,Adamant,Expert Belt,Brave Bird,Close Combat,Shadow Claw,U-turn,Atk/Spe
+Mandibuzz-3,Adamant,Assault Vest,Brave Bird,Bone Rush,Knock Off,U-turn,Atk/Def
+Drapion-3,Modest,Shuca Berry,Toxic,Venoshock,Dark Pulse,Bug Buzz,SpA/Spe
+Chandelure-3,Timid,Choice Scarf,Fire Blast,Shadow Ball,Energy Ball,Psychic,SpA/Spe
+Malamar-3,Timid,Tanga Berry,Dark Pulse,Psychic,Thunderbolt,Flamethrower,SpA/Spe
+Weavile-3,Jolly,Chople Berry,Swords Dance,Brick Break,Ice Punch,Throat Chop,Atk/Spe
+Sableye-3,Modest,Quick Claw,Shadow Ball,Dark Pulse,Psychic,Power Gem,HP/SpA
+Mawile-3,Adamant,Life Orb,Ice Punch,Crunch,Iron Head,Play Rough,Atk/Def
+Maractus-3,Quiet,Focus Sash,Grassy Terrain,Sucker Punch,Spiky Shield,Energy Ball,Atk/SpA
+Sigilyph-3,Timid,Expert Belt,Air Slash,Psychic,Dazzling Gleam,Heat Wave,SpA/Spe
+Lucario-3,Modest,Quick Claw,Aura Sphere,Shadow Ball,Flash Cannon,Psychic,SpA/Spe
+Torkoal-3,Modest,White Herb,Yawn,Overheat,Earth Power,Sludge Bomb,SpA/SpD
+Mimikyu-3,Brave,Mental Herb,Trick Room,Play Rough,Shadow Claw,Destiny Bond,Atk/SpD
+Copperajah-3,Adamant,Expert Belt,Play Rough,Iron Head,Zen Headbutt,Stone Edge,HP/Atk
+Qwilfish-3,Modest,Choice Specs,Scald,Ice Beam,Sludge Bomb,Shadow Ball,SpA/Spe
+Jellicent-3,Relaxed,Rocky Helmet,Scald,Shadow Ball,Giga Drain,Trick Room,HP/Def
+Toxapex-3,Calm,Leftovers,Toxic Spikes,Baneful Bunker,Hex,Muddy Water,HP/SpD
+Cramorant-3,Calm,Damp Rock,Surf,Hurricane,Blizzard,Rain Dance,SpA/SpD
+Toxtricity-Amped-1,Adamant,Shuca Berry,Wild Charge,Gunk Shot,Throat Chop,Shift Gear,Atk/Spe
+Toxtricity-Low Key-2,Bold,Leftovers,Toxic,Hex,Protect,Magnetic Flux,HP/Def
+Sandaconda-3,Impish,Bright Powder,Coil,Body Press,Glare,High Horsepower,HP/Def
+Hippowdon-3,Impish,Rocky Helmet,Slack Off,Body Press,High Horsepower,Curse,HP/Def
+Durant-3,Jolly,Eject Button,First Impression,Guillotine,Endure,Flail,Atk/Spe
+Heatmor-3,Quiet,Figy Berry,Belch,Fire Blast,Focus Blast,Giga Drain,HP/SpA
+Heliolisk-3,Modest,Focus Sash,Thunderbolt,Weather Ball,Dark Pulse,Sunny Day,SpA/Spe
+Hawlucha-3,Adamant,White Herb,Superpower,Acrobatics,Stone Edge,Poison Jab,Atk/Spe
+Flygon-3,Jolly,Focus Sash,Dragon Dance,Outrage,Earthquake,Stone Edge,Atk/Spe
+Haxorus-3,Jolly,Focus Sash,Dragon Dance,Dual Chop,Reversal,Rock Slide,Atk/Spe
+Runerigus-3,Quiet,Life Orb,Trick Room,Shadow Ball,Earth Power,Dragon Pulse,Def/SpA
+Aegislash-3,Modest,Weakness Policy,King’s Shield,Shadow Ball,Flash Cannon,Air Slash,HP/SpA
+Rapidash-3,Jolly,King’s Rock,Zen Headbutt,Stomp,Play Rough,Throat Chop,Atk/Spe
+Polteageist-3,Calm,Rocky Helmet,Strength Sap,Giga Drain,Shadow Ball,Will-O-Wisp,HP/SpD
+Indeedee-Male-1,Adamant,Life Orb,Fake Out,Zen Headbutt,Drain Punch,Last Resort,Atk/Spe
+Indeedee-Female-2,Timid,Psychic Seed,Fake Out,Baton Pass,Calm Mind,Stored Power,SpD/Spe
+Trevenant-3,Careful,Sitrus Berry,Curse,Leech Seed,Protect,Sucker Punch,HP/SpD
+Shiinotic-3,Bold,Focus Sash,Spore,Strength Sap,Moonblast,Energy Ball,Def/SpA
+Oranguru-3,Quiet,Mental Herb,Trick Room,Psychic,Foul Play,Instruct,SpA/SpD
+Passimian-3,Adamant,Expert Belt,Close Combat,Earthquake,Gunk Shot,Seed Bomb,Atk/Spe
+Morpeko-3,Adamant,Expert Belt,Aura Wheel,Psychic Fangs,Seed Bomb,Brick Break,Atk/Spe
+Falinks-3,Jolly,Eject Pack,First Impression,Throat Chop,Close Combat,Poison Jab,Atk/Spe
+Lunatone-3,Quiet,Mental Herb,Trick Room,Psychic,Power Gem,Moonlight,HP/SpA
+Solrock-3,Brave,Mental Herb,Trick Room,Zen Headbutt,Rock Slide,Morning Sun,HP/Atk
+Togedemaru-3,Jolly,Heavy-Duty Boots,Fake Out,Spiky Shield,Volt Switch,U-turn,HP/Spe
+Frosmoth-3,Timid,Icy Rock,Blizzard,Aurora Veil,Hail,Bug Buzz,SpD/Spe
+Grapploct-3,Adamant,Leftovers,Octolock,Detect,Drain Punch,Dive,HP/Atk
+Pincurchin-3,Modest,Leftovers,Toxic Spikes,Venoshock,Hex,Discharge,HP/SpA
+Mantine-3,Calm,Lum Berry,Scald,Air Slash,Ice Beam,Roost,HP/SpD
+Wailord-3,Timid,Bright Powder,Water Spout,Ice Beam,Surf,Hyper Voice,SpA/Spe
+Avalugg-3,Careful,Assault Vest,Avalanche,High Horsepower,Gyro Ball,Mirror Coat,HP/SpD
+Dhelmise-3,Adamant,Expert Belt,Anchor Shot,Power Whip,Phantom Force,Liquidation,Atk/Def
+Lapras-3,Relaxed,Sitrus Berry,Perish Song,Protect,Whirlpool,Avalanche,Def/SpD
+Drampa-3,Modest,Weakness Policy,Hyper Voice,Dragon Pulse,Flamethrower,Energy Ball,SpA/SpD
+Turtonator-3,Adamant,Lum Berry,Heavy Slam,Heat Crash,Body Press,Curse,Atk/Def
+Mr. Rime-3,Adamant,Life Orb,Fake Out,Ice Shard,Sucker Punch,Zen Headbutt,Atk/SpD
+Darmanitan-3,Jolly,King’s Rock,Icicle Crash,Rock Slide,Iron Head,Zen Headbutt,Atk/Spe
+Stonjourner-3,Jolly,Choice Scarf,Rock Slide,Heat Crash,Heavy Slam,Body Press,Atk/Spe
+Eiscue-3,Jolly,King’s Rock,Icicle Crash,Waterfall,Zen Headbutt,Iron Head,SpD/Spe
+Duraludon-3,Calm,Assault Vest,Dark Pulse,Dragon Pulse,Thunderbolt,Mirror Coat,SpA/SpD
+Rotom-Fan-1,Timid,Leftovers,Air Slash,Electroweb,Will-O-Wisp,Protect,SpA/Spe
+Rotom-Heat-1,Modest,Leftovers,Overheat,Thunderbolt,Will-O-Wisp,Protect,HP/SpA
+Rotom-Wash-1,Timid,Weakness Policy,Hydro Pump,Thunderbolt,Thunder Wave,Hex,HP/Spe
+Rotom-Mow-1,Modest,Leftovers,Leaf Storm,Thunderbolt,Will-O-Wisp,Protect,HP/SpA
+Rotom-Frost-1,Timid,Weakness Policy,Blizzard,Thunderbolt,Thunder Wave,Hex,HP/Spe
+Ditto-3,Timid,Expert Belt,Transform,,,,HP/Spe
+Dracozolt-3,Modest,Life Orb,Dragon Pulse,Thunderbolt,Earth Power,Flamethrower,SpA/SpD
+Arctozolt-3,Modest,Life Orb,Blizzard,Surf,Discharge,Hyper Voice,SpA/SpD
+Dracovish-3,Jolly,King’s Rock,Zen Headbutt,Iron Head,Rock Slide,Waterfall,Atk/Spe
+Arctovish-3,Jolly,King’s Rock,Zen Headbutt,Iron Head,Rock Slide,Waterfall,Atk/Spe
+Charizard-1,Timid,Charti Berry,Fire Pledge,Dragon Pulse,Air Slash,Protect,SpA/Spe
+Silvally-1,Adamant,Heavy-Duty Boots,Thunder Wave,Parting Shot,Crunch,Explosion,Atk/Spe
+Tyranitar-1,Modest,Assault Vest,Fire Blast,Blizzard,Dark Pulse,Thunder,Def/SpA
+Hydreigon-1,Timid,Roseli Berry,Dragon Pulse,Dark Pulse,Earth Power,Belch,SpA/Spe
+Goodra-1,Brave,Assault Vest,Draco Meteor,Iron Tail,Earthquake,Counter,Atk/SpA
+Kommo-o-1,Adamant,Roseli Berry,Drain Punch,Iron Head,Dragon Claw,Clangorous Soul,Atk/Spe
+Dragapult-1,Adamant,Liechi Berry,Dragon Darts,Psychic Fangs,Sucker Punch,Acrobatics,HP/Atk
+Rillaboom-4,Adamant,Eject Pack,Wood Hammer,U-turn,Superpower,Fake Out,Atk/Spe
+Cinderace-4,Adamant,Life Orb,Double-Edge,Pyro Ball,High Jump Kick,Sucker Punch,Atk/Spe
+Inteleon-4,Modest,Focus Sash,Snipe Shot,Air Slash,Dark Pulse,Focus Energy,SpA/Spe
+Orbeetle-4,Calm,Weakness Policy,Agility,Calm Mind,Stored Power,Giga Drain,Def/SpD
+Butterfree-4,Modest,Focus Sash,Quiver Dance,Bug Buzz,Energy Ball,Hurricane,SpA/Spe
+Vikavolt-4,Modest,Expert Belt,Thunderbolt,Bug Buzz,Flash Cannon,Air Slash,SpA/SpD
+Noctowl-4,Adamant,Power Herb,Sky Attack,Steel Wing,Zen Headbutt,Take Down,Atk/Spe
+Corviknight-4,Jolly,Salac Berry,Brave Bird,Body Press,Steel Wing,Bulk Up,Atk/Spe
+Greedent-4,Relaxed,White Herb,Gyro Ball,Belly Drum,Last Resort,Superpower,Def/SpD
+Unfezant-4,Jolly,Power Herb,Sky Attack,U-turn,Steel Wing,Night Slash,Atk/Spe
+Thievul-4,Adamant,Assault Vest,U-turn,Knock Off,Quick Attack,Play Rough,HP/Atk
+Obstagoon-4,Adamant,Life Orb,Close Combat,Double-Edge,Gunk Shot,Obstruct,Atk/Def
+Glalie-4,Adamant,Bright Powder,Sheer Cold,Icicle Crash,Iron Head,Earthquake,Atk/Spe
+Dubwool-4,Adamant,Leftovers,Double-Edge,Wild Charge,Protect,Bounce,HP/Atk
+Ludicolo-4,Quiet,Zoom Lens,Focus Blast,Hydro Pump,Leaf Storm,Blizzard,SpA/SpD
+Shiftry-4,Jolly,Life Orb,Leaf Blade,Sucker Punch,X-Scissor,Explosion,Atk/Spe
+Drednaw-4,Adamant,Expert Belt,Head Smash,Iron Tail,Liquidation,Crunch,Atk/Spe
+Liepard-4,Adamant,Scope Lens,Slash,Night Slash,Psycho Cut,Fake Out,Atk/Spe
+Boltund-4,Adamant,Life Orb,Wild Charge,Double-Edge,Play Rough,Protect,Atk/Spe
+Diggersby-4,Brave,Zoom Lens,Hammer Arm,Iron Tail,Stone Edge,Gunk Shot,Atk/Def
+Cinccino-4,Jolly,King’s Rock,Rock Blast,Bullet Seed,Tail Slap,Knock Off,Atk/Spe
+Tsareena-4,Jolly,Heat Rock,Solar Blade,Play Rough,Synthesis,Sunny Day,Atk/Spe
+Vileplume-4,Modest,Quick Claw,Dazzling Gleam,Pollen Puff,Sludge Wave,Nature Power,SpA/SpD
+Bellossom-4,Timid,Heat Rock,Solar Beam,Moonblast,Nature Power,Sunny Day,SpA/Spe
+Roserade-4,Modest,White Herb,Leaf Storm,Dazzling Gleam,Shadow Ball,Extrasensory,SpA/Spe
+Pelipper-4,Modest,Wacan Berry,Hydro Pump,Hurricane,Blizzard,Protect,SpA/Spe
+Galvantula-4,Modest,Life Orb,Thunderbolt,Bug Buzz,Energy Ball,Sucker Punch,SpA/Spe
+Manectric-4,Timid,Eject Button,Thunder,Overheat,Hyper Beam,Volt Switch,SpA/Spe
+Ninetales-4,Modest,Heat Rock,Fire Blast,Extrasensory,Solar Beam,Sunny Day,SpA/Spe
+Arcanine-4,Adamant,Assault Vest,Flare Blitz,Close Combat,Extreme Speed,Play Rough,Atk/SpD
+Vanilluxe-4,Modest,Assault Vest,Ice Shard,Blizzard,Flash Cannon,Mirror Coat,HP/SpA
+Mamoswine-4,Adamant,Assault Vest,Earthquake,Icicle Crash,Stone Edge,Ice Shard,HP/Atk
+Froslass-4,Modest,Icy Rock,Shadow Ball,Blizzard,Aurora Veil,Hail,SpA/Spe
+Claydol-4,Brave,Leftovers,Protect,Earth Power,Psychic,Cosmic Power,Def/SpD
+Mudsdale-4,Brave,White Herb,Superpower,Protect,Heavy Slam,High Horsepower,Atk/Def
+Crustle-4,Jolly,Salac Berry,Shell Smash,Knock Off,Stone Edge,X-Scissor,Atk/Spe
+Golurk-4,Jolly,Choice Scarf,Dynamic Punch,Stone Edge,Phantom Force,Earthquake,Atk/Spe
+Musharna-4,Quiet,Weakness Policy,Shadow Ball,Moonblast,Psychic,Energy Ball,HP/SpA
+Xatu-4,Modest,Choice Scarf,Air Slash,Psychic,Heat Wave,Dazzling Gleam,SpA/Spe
+Bewear-4,Adamant,Life Orb,Giga Impact,Close Combat,Darkest Lariat,High Horsepower,Atk/Spe
+Abomasnow-4,Modest,White Herb,Leaf Storm,Blizzard,Earth Power,Protect,SpA/SpD
+Kingler-4,Jolly,Razor Fang,Crabhammer,Night Slash,Slash,Protect,Atk/Spe
+Quagsire-4,Adamant,Quick Claw,High Horsepower,Waterfall,Iron Tail,Body Slam,HP/Atk
+Crawdaunt-4,Jolly,Choice Scarf,Crunch,X-Scissor,Crabhammer,Brick Break,Atk/Spe
+Ninjask-4,Adamant,Focus Sash,Swords Dance,X-Scissor,Acrobatics,Night Slash,Atk/Spe
+Shedinja-4,Adamant,Focus Sash,Shadow Claw,X-Scissor,Shadow Sneak,Protect,Atk/Spe
+Hitmonlee-4,Adamant,Life Orb,Fake Out,Stone Edge,High Jump Kick,Protect,Atk/SpD
+Hitmonchan-4,Adamant,Expert Belt,Thunder Punch,Ice Punch,Fire Punch,Power-Up Punch,Atk/Spe
+Hitmontop-4,Adamant,Eject Pack,Fake Out,Close Combat,Sucker Punch,Earthquake,Atk/Spe
+Pangoro-4,Adamant,Roseli Berry,Storm Throw,Darkest Lariat,Dragon Claw,Bullet Punch,Atk/Spe
+Klinklang-4,Modest,Life Orb,Power Gem,Flash Cannon,Thunder,Metal Sound,SpA/SpD
+Vespiquen-4,Timid,Quick Claw,Air Slash,Bug Buzz,Power Gem,Destiny Bond,SpA/Spe
+Bronzong-4,Brave,Mental Herb,Gyro Ball,Zen Headbutt,Earthquake,Trick Room,Atk/Def
+Gardevoir-4,Modest,Life Orb,Moonblast,Thunderbolt,Psychic,Focus Blast,SpA/Spe
+Gallade-4,Adamant,Eject Pack,Close Combat,Zen Headbutt,Poison Jab,Throat Chop,Atk/Spe
+Drifblim-4,Modest,Flame Orb,Explosion,Shadow Ball,Trick,Thunderbolt,HP/SpA
+Eldegoss-4,Modest,Assault Vest,Leaf Storm,Hyper Voice,Pollen Puff,Synthesis,Def/SpA
+Cherrim-4,Adamant,Heat Rock,Solar Blade,Play Rough,Protect,Sunny Day,Atk/Spe
+Skuntank-4,Adamant,Expert Belt,Poison Jab,Throat Chop,Iron Tail,Play Rough,Atk/Spe
+Seismitoad-4,Adamant,Life Orb,Liquidation,Power Whip,Earthquake,Drain Punch,HP/Atk
+Dusknoir-4,Adamant,Assault Vest,Earthquake,Shadow Punch,Brick Break,Ice Punch,Atk/SpD
+Machamp-4,Adamant,Scope Lens,Cross Chop,Stone Edge,High Horsepower,Dual Chop,HP/Atk
+Gengar-4,Modest,Choice Specs,Shadow Ball,Psychic,Sludge Wave,Focus Blast,SpA/Spe
+Gyarados-4,Adamant,Wacan Berry,Dragon Dance,Waterfall,Stone Edge,Earthquake,Atk/Spe
+Seaking-4,Jolly,Cell Battery,Megahorn,Poison Jab,Waterfall,Drill Run,Atk/Spe
+Octillery-4,Adamant,Scope Lens,Rock Blast,Bullet Seed,Liquidation,Focus Energy,Atk/Def
+Cloyster-4,Jolly,Focus Sash,Pin Missile,Rock Blast,Icicle Spear,Shell Smash,Atk/Spe
+Milotic-4,Modest,Assault Vest,Hydro Pump,Blizzard,Dragon Pulse,Mud Shot,SpA/Spe
+Basculin-4,Adamant,Expert Belt,Head Smash,Psychic Fangs,Liquidation,Crunch,Atk/Spe
+Wishiwashi-4,Modest,Weakness Policy,Hydro Pump,Ice Beam,Rest,Sleep Talk,Def/SpA
+Pyukumuku-4,Sassy,Leftovers,Toxic,Pain Split,Protect,Soak,Def/SpD
+Garbodor-4,Adamant,Life Orb,Gunk Shot,Seed Bomb,Body Press,Curse,Atk/Def
+Centiskorch-4,Adamant,Leftovers,Flare Blitz,Leech Life,Coil,Protect,HP/Atk
+Coalossal-4,Adamant,Quick Claw,Stone Edge,Flare Blitz,Earthquake,Explosion,Atk/Def
+Dugtrio-4,Adamant,Razor Fang,Stone Edge,Shadow Claw,Slash,Protect,Atk/Spe
+Excadrill-4,Adamant,Smooth Rock,Sandstorm,Earthquake,Iron Head,Rock Slide,Atk/Spe
+Gigalith-4,Adamant,Smooth Rock,Stone Edge,Earthquake,Heavy Slam,Sandstorm,Atk/Def
+Conkeldurr-4,Adamant,Life Orb,Close Combat,Stone Edge,High Horsepower,Mach Punch,HP/Atk
+Swoobat-4,Timid,Expert Belt,Air Slash,Psychic,Energy Ball,Shadow Ball,SpA/Spe
+Noivern-4,Timid,Throat Spray,Boomburst,Flamethrower,Air Slash,Dragon Pulse,SpA/Spe
+Steelix-4,Impish,Red Card,Heavy Slam,Body Press,High Horsepower,Curse,Atk/Def
+Barraskewda-4,Adamant,Life Orb,Close Combat,Liquidation,Poison Jab,Ice Fang,Atk/Spe
+Perrserker-4,Brave,Quick Claw,Iron Tail,Play Rough,Protect,Gunk Shot,Atk/Def
+Alcremie-4,Modest,Choice Scarf,Dazzling Gleam,Energy Ball,Psychic,Tri Attack,SpA/SpD
+Ribombee-4,Modest,Expert Belt,Moonblast,Bug Buzz,Psychic,Energy Ball,SpA/Spe
+Ferrothorn-4,Brave,Occa Berry,Power Whip,Curse,Body Press,Gyro Ball,Atk/Def
+Gourgeist-4,Adamant,Life Orb,Seed Bomb,Shadow Sneak,Phantom Force,Rock Slide,Atk/Spe
+Raichu-4,Adamant,Life Orb,Iron Tail,Electroweb,Volt Tackle,Fake Out,Atk/Spe
+Vaporeon-4,Modest,Bright Powder,Hydro Pump,Mud-Slap,Shadow Ball,Blizzard,SpA/SpD
+Jolteon-4,Modest,Bright Powder,Thunder,Mud-Slap,Shadow Ball,Hyper Voice,SpA/Spe
+Flareon-4,Adamant,Life Orb,Flare Blitz,Facade,Superpower,Iron Tail,Atk/SpD
+Espeon-4,Modest,Expert Belt,Psychic,Dazzling Gleam,Shadow Ball,Grass Knot,SpA/Spe
+Umbreon-4,Brave,Assault Vest,Crunch,Iron Tail,Body Slam,Double Kick,HP/Atk
+Leafeon-4,Adamant,Scope Lens,Leaf Blade,Quick Attack,X-Scissor,Iron Tail,Atk/Def
+Glaceon-4,Modest,Choice Band,Freeze-Dry,Blizzard,Shadow Ball,Hyper Voice,Def/SpA
+Sylveon-4,Modest,Quick Claw,Moonblast,Mystical Fire,Shadow Ball,Psyshock,SpA/SpD
+Flapple-2,Adamant,Liechi Berry,Dragon Rush,Grav Apple,Sucker Punch,Acrobatics,Atk/Spe
+Appletun-2,Modest,Petaya Berry,Giga Drain,Dragon Pulse,Rest,Sleep Talk,HP/SpA
+Meowstic-Male-3,Brave,Terrain Extender,Thunder Wave,Psychic Terrain,Psyshock,Fake Out,SpD/Spe
+Meowstic-Female-4,Modest,Expert Belt,Psychic,Thunderbolt,Shadow Ball,Fake Out,SpA/Spe
+Slurpuff-4,Modest,Expert Belt,Dazzling Gleam,Flamethrower,Surf,Energy Ball,SpA/Spe
+Aromatisse-4,Modest,Quick Claw,Moonblast,Psychic,Flash Cannon,Thunderbolt,HP/SpA
+Araquanid-4,Adamant,Choice Band,Leech Life,Liquidation,Poison Jab,Crunch,Atk/SpD
+Wobbuffet-4,Bold,Safety Goggles,Counter,Mirror Coat,Encore,Destiny Bond,HP/Def
+Sirfetch'd-4,Adamant,Leek,Meteor Assault,Brave Bird,Leaf Blade,First Impression,Atk/Def
+Lanturn-4,Quiet,Lum Berry,Hydro Pump,Thunder,Ice Beam,Rain Dance,HP/SpA
+Toxicroak-4,Adamant,Scope Lens,Cross Chop,Gunk Shot,Fake Out,Stone Edge,Atk/Spe
+Scrafty-4,Brave,Zoom Lens,Head Smash,High Jump Kick,Fake Out,Stone Edge,HP/Atk
+Stunfisk-4,Adamant,Rocky Helmet,Earthquake,Ice Fang,Stone Edge,Sucker Punch,Atk/Def
+Shuckle-4,Impish,Binding Band,Toxic,Infestation,Rest,Sandstorm,HP/Def
+Whiscash-4,Adamant,Expert Belt,Earthquake,Aqua Tail,Stone Edge,Zen Headbutt,HP/Atk
+Gastrodon-4,Modest,Assault Vest,Mirror Coat,Scald,Earth Power,Ice Beam,HP/SpA
+Golisopod-4,Adamant,Quick Claw,First Impression,Close Combat,Liquidation,Iron Head,HP/Atk
+Barbaracle-4,Adamant,Razor Fang,Stone Edge,Cross Chop,Razor Shell,Shadow Claw,Atk/Def
+Delibird-4,Jolly,Choice Band,Drill Peck,Seed Bomb,Ice Punch,Brick Break,Atk/Spe
+Cursola-4,Modest,Assault Vest,Power Gem,Shadow Ball,Scald,Earth Power,SpA/SpD
+Grimmsnarl-4,Adamant,Assault Vest,Fake Out,Play Rough,Hammer Arm,Sucker Punch,Atk/SpD
+Hatterene-4,Quiet,Mental Herb,Trick Room,Psychic,Dazzling Gleam,Dark Pulse,SpA/SpD
+Salazzle-4,Timid,Shuca Berry,Fake Out,Fire Blast,Belch,Foul Play,SpA/Spe
+Bisharp-4,Relaxed,Focus Sash,Metal Burst,Sucker Punch,Payback,Quick Guard,HP/Def
+Throh-4,Adamant,Expert Belt,Storm Throw,Stone Edge,Earthquake,Zen Headbutt,HP/Atk
+Sawk-4,Adamant,Choice Scarf,Close Combat,Stone Edge,Earthquake,Ice Punch,Atk/Spe
+Weezing-4,Modest,White Herb,Strange Steam,Sludge Bomb,Overheat,Thunder,HP/SpA
+Sudowoodo-4,Brave,Quick Claw,Head Smash,Wood Hammer,Sucker Punch,Protect,Atk/Def
+Clefable-4,Modest,Life Orb,Moonblast,Fire Blast,Blizzard,Fire Blast,SpA/Spe
+Togekiss-4,Modest,Scope Lens,Aura Sphere,Air Slash,Dazzling Gleam,Grass Knot,SpA/Spe
+Snorlax-4,Relaxed,Figy Berry,Curse,Recycle,Facade,Crunch,HP/Def
+Whimsicott-4,Modest,Life Orb,Moonblast,Energy Ball,Psychic,Shadow Ball,SpA/Spe
+Rhyperior-4,Brave,Assault Vest,Earthquake,Stone Edge,Avalanche,Hammer Arm,Atk/Def
+Gothitelle-4,Modest,Expert Belt,Psychic,Energy Ball,Dark Pulse,Thunderbolt,SpA/SpD
+Reuniclus-4,Modest,Life Orb,Psychic,Focus Blast,Shadow Ball,Energy Ball,HP/SpA
+Escavalier-4,Adamant,Life Orb,Megahorn,Iron Head,Drill Run,Swords Dance,Atk/Def
+Accelgor-4,Modest,Life Orb,Bug Buzz,Energy Ball,Water Shuriken,Focus Blast,SpA/Spe
+Beheeyem-4,Quiet,Expert Belt,Psychic,Energy Ball,Shadow Ball,Flash Cannon,SpA/SpD
+Beartic-4,Brave,Sitrus Berry,Yawn,Focus Punch,Avalanche,Aqua Jet,Atk/Def
+Braviary-4,Jolly,King’s Rock,Tailwind,Rock Slide,Sky Attack,Iron Head,Atk/Spe
+Mandibuzz-4,Impish,Rocky Helmet,Roost,Foul Play,Toxic,Taunt,HP/Def
+Drapion-4,Adamant,Scope Lens,Cross Poison,Night Slash,Earthquake,Ice Fang,Atk/Spe
+Chandelure-4,Modest,White Herb,Overheat,Shadow Ball,Energy Ball,Haze,SpA/Spe
+Malamar-4,Jolly,Choice Scarf,Superpower,Rock Slide,Liquidation,Psycho Cut,Atk/Spe
+Weavile-4,Adamant,Life Orb,Low Kick,Icicle Crash,Throat Chop,Poison Jab,Atk/Spe
+Sableye-4,Adamant,Rocky Helmet,Will-O-Wisp,Recover,Shadow Claw,Knock Off,Atk/SpD
+Mawile-4,Adamant,Liechi Berry,Play Rough,Sucker Punch,Swords Dance,Iron Head,Atk/Def
+Maractus-4,Jolly,Choice Scarf,Wood Hammer,Poison Jab,Throat Chop,Drain Punch,Atk/Spe
+Sigilyph-4,Modest,Life Orb,Air Slash,Psychic,Flash Cannon,Ice Beam,SpA/Spe
+Lucario-4,Adamant,Life Orb,Extreme Speed,Close Combat,Meteor Mash,Stone Edge,Atk/Spe
+Torkoal-4,Impish,Leftovers,Heat Crash,Body Press,Curse,Protect,Atk/Def
+Mimikyu-4,Adamant,Life Orb,Play Rough,Shadow Sneak,Shadow Claw,Swords Dance,Atk/Spe
+Copperajah-4,Adamant,Quick Claw,Heavy Slam,Heat Crash,High Horsepower,Play Rough,HP/Atk
+Qwilfish-4,Adamant,Assault Vest,Poison Jab,Waterfall,Fell Stinger,Throat Chop,Atk/Spe
+Jellicent-4,Calm,Assault Vest,Hydro Pump,Shadow Ball,Ice Beam,Energy Ball,SpA/SpD
+Toxapex-4,Bold,Black Sludge,Toxic,Recover,Baneful Bunker,Scald,HP/Def
+Cramorant-4,Adamant,Power Herb,Dive,Protect,Brave Bird,Steel Wing,Atk/Spe
+Toxtricity-Low Key-3,Rash,Throat Spray,Overdrive,Sludge Wave,Boomburst,Snarl,SpA/Spe
+Toxtricity-Amped-4,Modest,Throat Spray,Overdrive,Sludge Wave,Boomburst,Snarl,HP/SpA
+Sandaconda-4,Adamant,Razor Fang,Stone Edge,Drill Run,Poison Tail,Coil,Atk/Def
+Hippowdon-4,Adamant,Choice Band,High Horsepower,Stone Edge,Ice Fang,Thunder Fang,Atk/Def
+Durant-4,Adamant,Occa Berry,Iron Head,First Impression,Stone Edge,Superpower,Atk/Spe
+Heatmor-4,Brave,White Herb,Overheat,Superpower,Flare Blitz,Sucker Punch,Atk/SpA
+Heliolisk-4,Modest,Lum Berry,Thunder,Weather Ball,Dark Pulse,Rain Dance,SpA/Spe
+Hawlucha-4,Adamant,Power Herb,High Jump Kick,Sky Attack,Stone Edge,Poison Jab,Atk/Spe
+Flygon-4,Hasty,Heavy-Duty Boots,Draco Meteor,First Impression,Earthquake,U-turn,SpA/Spe
+Haxorus-4,Adamant,Life Orb,First Impression,Dual Chop,Close Combat,Poison Jab,Atk/Spe
+Runerigus-4,Relaxed,Quick Claw,Will-O-Wisp,Phantom Force,Earthquake,Stone Edge,Atk/Def
+Aegislash-4,Adamant,Life Orb,King’s Shield,Shadow Sneak,Psycho Cut,Sacred Sword,HP/Atk
+Rapidash-4,Adamant,Scope Lens,Psycho Cut,Drill Run,Play Rough,Throat Chop,Atk/Spe
+Polteageist-4,Hasty,Focus Sash,Shell Smash,Sucker Punch,Shadow Ball,Stored Power,SpA/Spe
+Indeedee-Male-3,Modest,Expert Belt,Mystical Fire,Psychic,Shadow Ball,Energy Ball,SpA/Spe
+Indeedee-Female-4,Calm,Rocky Helmet,Future Sight,Follow Me,Helping Hand,Draining Kiss,Def/SpD
+Trevenant-4,Adamant,Assault Vest,Wood Hammer,Shadow Claw,Sucker Punch,Earthquake,HP/Atk
+Shiinotic-4,Modest,Life Orb,Spore,Dream Eater,Moonblast,Energy Ball,SpA/SpD
+Oranguru-4,Modest,Weakness Policy,Stored Power,Focus Blast,Thunderbolt,Foul Play,SpA/SpD
+Passimian-4,Adamant,Choice Scarf,Close Combat,Earthquake,Iron Head,Rock Slide,Atk/Spe
+Morpeko-4,Jolly,King’s Rock,Aura Wheel,Quick Attack,Fire Fang,Ice Fang,Atk/Spe
+Falinks-4,Impish,Leftovers,No Retreat,Throat Chop,Brick Break,Protect,HP/Def
+Lunatone-4,Modest,Expert Belt,Moonblast,Psychic,Power Gem,Blizzard,SpA/Spe
+Solrock-4,Adamant,Expert Belt,Stone Edge,Zen Headbutt,Flare Blitz,Earthquake,Atk/Spe
+Togedemaru-4,Jolly,King’s Rock,Nuzzle,Zing Zap,Iron Head,Zen Headbutt,Atk/Spe
+Frosmoth-4,Timid,Charti Berry,Quiver Dance,Blizzard,Hurricane,Bug Buzz,SpA/Spe
+Grapploct-4,Adamant,Life Orb,Sucker Punch,Close Combat,Liquidation,Ice Punch,Atk/Def
+Pincurchin-4,Adamant,Shuca Berry,Sucker Punch,Liquidation,Poison Jab,Zing Zap,Atk/Def
+Mantine-4,Quiet,Zoom Lens,Hydro Pump,Blizzard,Hurricane,Roost,SpA/SpD
+Wailord-4,Adamant,Choice Band,Liquidation,Heavy Slam,Zen Headbutt,Earthquake,HP/Atk
+Avalugg-4,Brave,Choice Band,Avalanche,High Horsepower,Gyro Ball,Stone Edge,HP/Atk
+Dhelmise-4,Quiet,Weakness Policy,Gyro Ball,Power Whip,Shadow Ball,Hydro Pump,Atk/SpA
+Lapras-4,Quiet,Assault Vest,Ice Shard,Freeze-Dry,Hydro Pump,Psychic,Def/SpA
+Drampa-4,Quiet,Zoom Lens,Blizzard,Hurricane,Focus Blast,Draco Meteor,SpA/SpD
+Turtonator-4,Modest,White Herb,Overheat,Draco Meteor,Focus Blast,Wide Guard,Def/SpA
+Mr. Rime-4,Modest,Expert Belt,Grass Knot,Psychic,Blizzard,Thunder,SpA/Spe
+Darmanitan-4,Adamant,Expert Belt,Stone Edge,Flare Blitz,Hammer Arm,Icicle Crash,Atk/Spe
+Stonjourner-4,Brave,Life Orb,Stone Edge,Earthquake,Body Press,Curse,Atk/Def
+Eiscue-4,Jolly,Life Orb,Head Smash,Icicle Crash,Liquidation,Belly Drum,Atk/Spe
+Duraludon-4,Relaxed,Sitrus Berry,Body Press,Dragon Claw,Stone Edge,Metal Burst,Atk/Def
+Rotom-Fan-2,Timid,King’s Rock,Air Slash,Thunderbolt,Thunder Wave,Shadow Ball,SpA/Spe
+Rotom-Heat-2,Modest,White Herb,Overheat,Volt Switch,Shadow Ball,Helping Hand,SpA/Spe
+Rotom-Wash-2,Modest,Life Orb,Hydro Pump,Thunder,Shadow Ball,Nasty Plot,HP/SpA
+Rotom-Mow-2,Modest,White Herb,Leaf Storm,Volt Switch,Shadow Ball,Helping Hand,SpA/Spe
+Rotom-Frost-2,Modest,Life Orb,Blizzard,Thunder,Shadow Ball,Nasty Plot,HP/SpA
+Ditto-4,Timid,Choice Scarf,Transform,,,,HP/Spe
+Dracozolt-4,Brave,Quick Claw,Dragon Rush,Bolt Beak,Stone Edge,Iron Tail,Atk/Def
+Arctozolt-4,Brave,Quick Claw,Icicle Crash,Bolt Beak,Stone Edge,Iron Tail,Atk/Def
+Dracovish-4,Brave,Quick Claw,Dragon Rush,Fishious Rend,Zen Headbutt,Body Slam,Atk/Def
+Arctovish-4,Brave,Quick Claw,Icicle Crash,Fishious Rend,Zen Headbutt,Body Slam,Atk/Def
+Charizard-2,Modest,Life Orb,Fire Blast,Solar Beam,Hurricane,Sunny Day,SpA/Spe
+Silvally-2,Modest,Throat Spray,Hyper Voice,Shadow Ball,Ice Beam,Flamethrower,SpA/Spe
+Tyranitar-2,Brave,Chople Berry,Stone Edge,Crunch,High Horsepower,Iron Tail,HP/Atk
+Hydreigon-2,Modest,White Herb,Draco Meteor,Dark Pulse,Earth Power,U-turn,SpA/Spe
+Goodra-2,Modest,White Herb,Draco Meteor,Sludge Bomb,Muddy Water,Focus Blast,SpA/SpD
+Kommo-o-2,Modest,Life Orb,Clanging Scales,Focus Blast,Flamethrower,Flash Cannon,Def/SpA
+Dragapult-2,Timid,Eject Button,Draco Meteor,Scald,Shadow Ball,U-turn,SpA/Spe
+Charizard-3,Timid,Charti Berry,Fire Pledge,Dragon Pulse,Air Slash,Will-O-Wisp,SpA/Spe
+Charizard-4,Timid,Charti Berry,Heat Wave,Dragon Pulse,Air Slash,Protect,Atk/Spe
+Charizard-5,Timid,Charti Berry,Fire Pledge,Dragon Pulse,Air Slash,Protect,SpA/Spe
+Charizard-6,Timid,Charti Berry,Heat Wave,Solar Beam,Hurricane,Hyper Beam,SpA/Spe
+Charizard-7,Timid,Charti Berry,Fire Blast,Solar Beam,Hurricane,Weather Ball,SpA/Spe
+Rillaboom-5,Modest,Assault Vest,Grass Pledge,Earth Power,Focus Blast,Snarl,HP/SpA
+Rillaboom-6,Adamant,Leftovers,Protect,Drain Punch,Swords Dance,Leech Seed,HP/Atk
+Rillaboom-7,Adamant,Life Orb,Drum Beating,High Horsepower,Darkest Lariat,Body Slam,Atk/Spe
+Rillaboom-8,Adamant,Eject Pack,Wood Hammer,U-turn,Superpower,Fake Out,Atk/Spe
+Cinderace-5,Modest,Choice Scarf,Fire Pledge,Shadow Ball,Focus Blast,Electro Ball,SpA/Spe
+Cinderace-6,Adamant,Focus Sash,Blaze Kick,Feint,Focus Energy,Sucker Punch,Atk/Spe
+Cinderace-7,Jolly,King’s Rock,Double Kick,Fire Fang,Zen Headbutt,Iron Head,Atk/Spe
+Cinderace-8,Adamant,Life Orb,Double-Edge,Pyro Ball,High Jump Kick,Sucker Punch,Atk/Spe
+Inteleon-5,Modest,Expert Belt,Water Pledge,Shadow Ball,Blizzard,Mud Shot,SpA/Spe
+Inteleon-6,Timid,Bright Powder,Muddy Water,Shadow Ball,Baton Pass,Double Team,SpA/Spe
+Inteleon-7,Adamant,Assault Vest,Sucker Punch,Waterfall,Icicle Spear,Fell Stinger,Atk/Spe
+Inteleon-8,Modest,Focus Sash,Snipe Shot,Air Slash,Dark Pulse,Focus Energy,SpA/Spe
+Boltund-5,Naive,Salac Berry,Electro Ball,Flame Charge,Thunder Wave,Howl,SpA/Spe
+Boltund-6,Bold,Air Balloon,Eerie Impulse,Charm,Discharge,Hyper Voice,Def/SpD
+Boltund-7,Jolly,King’s Rock,Psychic Fangs,Crunch,Fire Fang,Thunder Fang,Atk/Spe
+Boltund-8,Adamant,Life Orb,Wild Charge,Double-Edge,Play Rough,Protect,Atk/Spe
+Dusknoir-5,Careful,Rocky Helmet,Shadow Sneak,Pain Split,Will-O-Wisp,Protect,Def/SpD
+Dusknoir-6,Calm,Leftovers,Curse,Will-O-Wisp,Hex,Protect,Def/SpD
+Dusknoir-7,Quiet,Mental Herb,Trick Room,Shadow Ball,Focus Blast,Psychic,SpA/SpD
+Dusknoir-8,Adamant,Assault Vest,Earthquake,Shadow Punch,Brick Break,Ice Punch,Atk/SpD
+Drapion-5,Impish,Leftovers,Toxic,Protect,Confuse Ray,Throat Chop,Def/SpD
+Drapion-6,Jolly,Big Root,Acupressure,Rest,Sleep Talk,Leech Life,Def/Spe
+Drapion-7,Modest,Shuca Berry,Toxic,Venoshock,Dark Pulse,Bug Buzz,SpA/Spe
+Drapion-8,Adamant,Scope Lens,Cross Poison,Night Slash,Earthquake,Ice Fang,Atk/Spe
+Gardevoir-5,Calm,Light Clay,Dazzling Gleam,Hyper Voice,Life Dew,Light Screen,SpA/SpD
+Gardevoir-6,Modest,Terrain Extender,Wish,Future Sight,Draining Kiss,Psychic Terrain,SpA/SpD
+Gardevoir-7,Timid,Expert Belt,Dazzling Gleam,Mystical Fire,Psychic,Energy Ball,SpA/Spe
+Gardevoir-8,Modest,Life Orb,Moonblast,Thunderbolt,Psychic,Focus Blast,SpA/Spe
+Togekiss-5,Bold,Rocky Helmet,Encore,Light Screen,Dazzling Gleam,Follow Me,Def/SpD
+Togekiss-6,Timid,King’s Rock,Thunder Wave,Air Slash,Extrasensory,Morning Sun,SpA/Spe
+Togekiss-7,Brave,Assault Vest,Extreme Speed,Play Rough,Zen Headbutt,Brick Break,Atk/SpD
+Togekiss-8,Modest,Razor Fang,Aura Sphere,Air Slash,Dazzling Gleam,Grass Knot,SpA/Spe
+Rapidash-5,Timid,Leftovers,Protect,Imprison,Psychic,Dazzling Gleam,SpD/Spe
+Rapidash-6,Modest,Kasib Berry,Psychic,Dazzling Gleam,Mystical Fire,Calm Mind,SpA/Spe
+Rapidash-7,Jolly,King’s Rock,Zen Headbutt,Stomp,Play Rough,Throat Chop,Atk/Spe
+Rapidash-8,Adamant,Scope Lens,Psycho Cut,Drill Run,Play Rough,Throat Chop,Atk/Spe
+Vikavolt-5,Modest,Sitrus Berry,Discharge,Bug Buzz,Eerie Impulse,Sticky Web,Def/SpA
+Vikavolt-6,Relaxed,Zoom Lens,Guillotine,Mud-Slap,Thunder Wave,Substitute,Def/SpD
+Vikavolt-7,Adamant,Life Orb,Wild Charge,X-Scissor,Poison Jab,Crunch,Atk/Def
+Vikavolt-8,Modest,Expert Belt,Thunderbolt,Bug Buzz,Flash Cannon,Air Slash,SpA/SpD
+Centiskorch-5,Bold,Grip Claw,Scald,Heat Wave,Protect,Wrap,HP/Def
+Centiskorch-6,Jolly,Charti Berry,Thunder Fang,Fire Fang,Lunge,Knock Off,Atk/Spe
+Centiskorch-7,Modest,White Herb,Sunny Day,Solar Beam,Overheat,Bug Buzz,SpA/SpD
+Centiskorch-8,Adamant,Leftovers,Flare Blitz,Leech Life,Coil,Protect,HP/Atk
+Escavalier-5,Relaxed,Occa Berry,Taunt,Metal Burst,Counter,Protect,Def/SpD
+Escavalier-6,Adamant,Rocky Helmet,Fell Stinger,Screech,Rest,Sleep Talk,Atk/SpD
+Escavalier-7,Adamant,Sitrus Berry,Night Slash,Slash,Drill Run,Razor Shell,Atk/Def
+Escavalier-8,Adamant,Life Orb,Megahorn,Iron Head,Drill Run,Swords Dance,Atk/Def
+Vespiquen-5,Impish,Bright Powder,Swagger,Toxic Spikes,Attack Order,Attract,Def/SpD
+Vespiquen-6,Careful,Leftovers,Defend Order,Toxic,Fell Stinger,Protect,Def/SpD
+Vespiquen-7,Adamant,Charti Berry,Attack Order,Acrobatics,Cross Poison,Protect,Atk/Def
+Vespiquen-8,Timid,Quick Claw,Air Slash,Bug Buzz,Power Gem,Destiny Bond,SpA/Spe
+Ribombee-5,Modest,Leftovers,Skill Swap,Draining Kiss,Protect,Aromatherapy,SpA/SpD
+Ribombee-6,Timid,Big Root,Quiver Dance,Baton Pass,Draining Kiss,Stun Spore,SpD/Spe
+Ribombee-7,Timid,Quick Claw,Speed Swap,Dazzling Gleam,Pollen Puff,Helping Hand,SpA/Spe
+Ribombee-8,Modest,Expert Belt,Moonblast,Bug Buzz,Psychic,Energy Ball,SpA/Spe
+Frosmoth-5,Calm,Binding Band,Feather Dance,Infestation,Protect,Giga Drain,HP/SpD
+Frosmoth-6,Timid,Occa Berry,Tailwind,Ice Beam,Air Slash,Bug Buzz,SpA/Spe
+Frosmoth-7,Timid,Icy Rock,Blizzard,Aurora Veil,Hail,Bug Buzz,SpD/Spe
+Frosmoth-8,Timid,Charti Berry,Quiver Dance,Blizzard,Hurricane,Bug Buzz,SpA/Spe
+Sirfetch'd-5,Careful,Leftovers,Revenge,Iron Defense,Protect,Poison Jab,Def/SpD
+Sirfetch'd-6,Impish,Power Herb,Focus Energy,Night Slash,Leaf Blade,Sky Attack,Atk/Def
+Sirfetch'd-7,Impish,Assault Vest,Counter,Feint,First Impression,Knock Off,Def/SpD
+Sirfetch'd-8,Adamant,Leek,Meteor Assault,Brave Bird,Leaf Blade,First Impression,Atk/Def
+Lucario-5,Brave,Focus Sash,Counter,Extreme Speed,Payback,Bullet Punch,Def/SpD
+Lucario-6,Naive,Assault Vest,Detect,Bullet Punch,Aura Sphere,Psychic,Atk/Spe
+Lucario-7,Modest,Quick Claw,Aura Sphere,Shadow Ball,Flash Cannon,Psychic,SpA/Spe
+Lucario-8,Adamant,Life Orb,Extreme Speed,Close Combat,Meteor Mash,Stone Edge,Atk/Spe
+Kommo-o-3,Adamant,Roseli Berry,Drain Punch,Iron Head,Dragon Claw,Clangorous Soul,Atk/Spe
+Kommo-o-4,Modest,Life Orb,Clanging Scales,Focus Blast,Flamethrower,Flash Cannon,Def/SpA
+Thievul-5,Timid,Focus Sash,Snarl,Grass Knot,Nasty Plot,Baton Pass,SpA/Spe
+Thievul-6,Jolly,King’s Rock,Sucker Punch,Fire Fang,Thunder Fang,Ice Fang,Atk/Spe
+Thievul-7,Modest,Lum Berry,Dark Pulse,Grass Knot,Psychic,Parting Shot,SpA/Spe
+Thievul-8,Adamant,Assault Vest,U-turn,Knock Off,Quick Attack,Play Rough,HP/Atk
+Weavile-5,Modest,Lum Berry,Icy Wind,Snarl,Reflect,Fake Out,HP/SpA
+Weavile-6,Brave,Focus Sash,Fake Out,Counter,Ice Shard,Feint,HP/Atk
+Weavile-7,Jolly,Chople Berry,Swords Dance,Brick Break,Ice Punch,Throat Chop,Atk/Spe
+Weavile-8,Adamant,Life Orb,Low Kick,Icicle Crash,Throat Chop,Poison Jab,Atk/Spe
+Hydreigon-3,Timid,Roseli Berry,Dragon Pulse,Dark Pulse,Earth Power,Belch,SpA/Spe
+Hydreigon-4,Modest,White Herb,Draco Meteor,Dark Pulse,Earth Power,U-turn,SpA/Spe
+Ditto-5,Timid,Bright Powder,Transform,,,,HP/Spe
+Rillaboom-9,Modest,Assault Vest,Grass Pledge,Earth Power,Focus Blast,Snarl,HP/SpA
+Cinderace-9,Modest,Choice Scarf,Fire Pledge,Shadow Ball,Focus Blast,Electro Ball,SpA/Spe
+Inteleon-9,Modest,Expert Belt,Water Pledge,Shadow Ball,Blizzard,Mud Shot,SpA/Spe
+Seismitoad-5,Modest,Damp Rock,Rain Dance,Weather Ball,Mud Shot,Gastro Acid,HP/SpA
+Rhyperior-5,Jolly,Weakness Policy,Rock Polish,Rock Blast,Earthquake,Dragon Rush,Atk/Spe
+Haxorus-5,Hasty,Scope Lens,Breaking Swipe,Rock Slide,Leer,Snarl,Atk/Spe
+Aegislash-5,Relaxed,Sitrus Berry,King’s Shield,Swords Dance,Shadow Sneak,Iron Head,HP/Def
+Mr. Rime-5,Quiet,Rocky Helmet,Fake Out,Slack Off,Freeze-Dry,Psychic,Def/SpD
+Rillaboom-10,Adamant,Leftovers,Protect,Drain Punch,Swords Dance,Leech Seed,HP/Atk
+Cinderace-10,Adamant,Focus Sash,Blaze Kick,Feint,Focus Energy,Sucker Punch,Atk/Spe
+Inteleon-10,Timid,Bright Powder,Muddy Water,Shadow Ball,Baton Pass,Double Team,SpA/Spe
+Seismitoad-6,Adamant,Big Root,Toxic,Bounce,Protect,Drain Punch,Atk/Def
+Rhyperior-6,Brave,Passho Berry,Rock Slide,High Horsepower,Ice Punch,Protect,Atk/SpD
+Haxorus-6,Jolly,Lum Berry,Attract,Outrage,Earthquake,Poison Jab,Atk/Spe
+Aegislash-6,Sassy,Assault Vest,Shadow Sneak,Sacred Sword,Shadow Ball,Flash Cannon,HP/SpD
+Mr. Rime-6,Calm,Terrain Extender,Icy Wind,Dazzling Gleam,Psychic,Psychic Terrain,SpA/SpD
+Rillaboom-11,Adamant,Life Orb,Drum Beating,High Horsepower,Darkest Lariat,Body Slam,Atk/Spe
+Cinderace-11,Jolly,King’s Rock,Double Kick,Fire Fang,Zen Headbutt,Iron Head,Atk/Spe
+Inteleon-11,Adamant,Assault Vest,Sucker Punch,Waterfall,Icicle Spear,Fell Stinger,Atk/Spe
+Seismitoad-7,Modest,Rindo Berry,Sludge Wave,Muddy Water,Focus Blast,Earth Power,SpA/SpD
+Rhyperior-7,Brave,Rindo Berry,Rock Slide,High Horsepower,Thunder Punch,Protect,Atk/SpD
+Haxorus-7,Jolly,Focus Sash,Dragon Dance,Dual Chop,Reversal,Rock Slide,Atk/Spe
+Aegislash-7,Modest,Weakness Policy,King’s Shield,Shadow Ball,Flash Cannon,Air Slash,HP/SpA
+Mr. Rime-7,Adamant,Life Orb,Fake Out,Ice Shard,Sucker Punch,Zen Headbutt,Atk/SpD
+Dragapult-3,Adamant,Liechi Berry,Dragon Darts,Psychic Fangs,Sucker Punch,Acrobatics,HP/Atk
+Rillaboom-12,Adamant,Eject Pack,Wood Hammer,U-turn,Superpower,Fake Out,Atk/Spe
+Cinderace-12,Adamant,Life Orb,Double-Edge,Pyro Ball,High Jump Kick,Sucker Punch,Atk/Spe
+Inteleon-12,Modest,Focus Sash,Snipe Shot,Air Slash,Dark Pulse,Focus Energy,SpA/Spe
+Seismitoad-8,Adamant,Life Orb,Liquidation,Power Whip,Earthquake,Drain Punch,HP/Atk
+Rhyperior-8,Brave,Assault Vest,Earthquake,Stone Edge,Avalanche,Hammer Arm,Atk/Def
+Haxorus-8,Adamant,Life Orb,First Impression,Dual Chop,Close Combat,Poison Jab,Atk/Spe
+Aegislash-8,Adamant,Life Orb,King’s Shield,Shadow Sneak,Psycho Cut,Sacred Sword,HP/Atk
+Mr. Rime-8,Modest,Expert Belt,Grass Knot,Psychic,Blizzard,Thunder,SpA/Spe
+Dragapult-4,Timid,Eject Button,Draco Meteor,Scald,Shadow Ball,U-turn,SpA/Spe

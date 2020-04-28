@@ -1,4 +1,4 @@
-from Tkinter import *
+from tkinter import *
 import screen
 
 def main():
@@ -6,5 +6,5 @@ def main():
 
     app = screen.Screen()
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()

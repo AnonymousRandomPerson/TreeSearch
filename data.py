@@ -2,6 +2,9 @@
 
 import csv
 
+pokemonFile = 'pokemonSS.csv'
+trainersFile = 'trainersSS.csv'
+
 class Data:
     """Stores data about Battle Tree Pokémon."""
 
@@ -9,14 +12,14 @@ class Data:
         """Initializes the data storage."""
 
         self.sets = {}
-        with open('pokemon.csv', 'rb') as csvFile:
+        with open(pokemonFile, 'r') as csvFile:
             pokemonReader = csv.reader(csvFile)
             for row in pokemonReader:
                 set = Set(row)
                 self.sets[set.name] = set
 
         self.trainers = {}
-        with open('trainers.csv', 'rb') as csvFile:
+        with open(trainersFile, 'r') as csvFile:
             trainerReader = csv.reader(csvFile)
             for row in trainerReader:
                 trainer = Trainer(self, row)
@@ -51,17 +54,17 @@ class Set:
     def __init__(self, row):
         """
         Initializes a set.
-        
+
         Args:
             row: The CSV data for the set.
         """
 
-        self.name = row[1]
-        self.pokemon = row[1][:-2]
-        self.nature = row[2]
-        self.item = row[3]
-        self.moves = tuple(row[i] for i in range(4, 8))
-        self.evs = row[8]
+        self.name = row[0]
+        self.pokemon = row[0][:row[0].index('-')]
+        self.nature = row[1]
+        self.item = row[2]
+        self.moves = tuple(row[i] for i in range(3, 7))
+        self.evs = row[7]
 
     def __repr__(self):
         """Returns the set's name."""
@@ -78,16 +81,24 @@ class Trainer:
             data: The data object containing Pokémon data.
             row: The CSV data for the Trainer.
         """
-        
-        unsplit = row[0]
 
-        splitIndex = unsplit.find(" - ")
-        self.name = unsplit[:splitIndex]
-        allPokemon = unsplit[splitIndex + 3:].split(", ")
+        self.name = row[0]
+        allPokemon = row[1].split(',')
         allPokemon.sort()
         self.sets = []
+        self.dynamax = {}
         for pokemon in allPokemon:
-            self.sets.append(data.getSet(pokemon))
+            isDynamax = False
+            for dynamaxKeyword in ['-Dynamax', '-Gigantamax']:
+                if dynamaxKeyword in pokemon:
+                    pokemon = pokemon.replace(dynamaxKeyword, '')
+                    isDynamax = True
+                    break
+
+            pokemonSet = data.getSet(pokemon)
+            self.sets.append(pokemonSet)
+            if isDynamax:
+                self.dynamax[pokemonSet.name] = dynamaxKeyword
 
     def __repr__(self):
         """Returns the Trainer's name."""
@@ -104,8 +115,8 @@ class Trainer:
         sets = []
         name = name.lower()
         if name:
-            for set in self.sets:
-                lowerName = set.name.lower()
+            for pokemonSet in self.sets:
+                lowerName = pokemonSet.name.lower()
                 if lowerName.startswith(name):
-                    sets.append(set)
+                    sets.append(pokemonSet)
         return sets
