@@ -378,5 +378,4 @@ class Screen:
             self.redFlags += ['Counter', 'Metal Burst', 'Mirror Coat']
 
             if battleType == 2:
-                self.redFlags += ['Baneful Bunker', 'Detect', 'Endure', 'King\'s Shield', 'Mat Block', 'Obstruct', 'Spiky Shield', 'Wide Guard']
-                self.redFlags += ['Blizzard', 'Rock Slide']
+                self.redFlags += ['Baneful Bunker', 'Detect', 'Endure', 'King\'s Shield', 'Mat Block', 'Obstruct', 'Protect', 'Spiky Shield', 'Wide Guard']
