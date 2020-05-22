@@ -1,8 +1,8 @@
 # TreeSearch
-Simple program to search Battle facility sets by Trainer name.
+Simple program to search battle facility sets by Trainer name.
 
 ## Installation
-* Requires Python 2 and Tkinter.
+* Requires Python 3 and Tkinter.
 * Download the project and run "python main.py".
 
 ## Use
