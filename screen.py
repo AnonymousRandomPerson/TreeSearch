@@ -235,19 +235,6 @@ class Screen:
         """
         currentSets = self.getSets(pokemon, self.trainer, self.secondTrainer)
 
-        if not self.secondTrainer:
-            # Remove sets that are rendered invalid by item clause.
-            removeSet = []
-            for pokemonSet in self.sets:
-                if len(pokemonSet) > 1:
-                    continue
-
-                for current in currentSets:
-                    if current.item == pokemonSet[0].item:
-                        removeSet.append(current)
-            for pokemonSet in removeSet:
-                currentSets.remove(pokemonSet)
-
         if len(currentSets) == 0:
             return 'Pokémon not found: ' + pokemon + '.'
 

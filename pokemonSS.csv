@@ -73,7 +73,7 @@ Garbodor-1,Sassy,Rocky Helmet,Curse,Drain Punch,Rest,Sleep Talk,Atk/SpD
 Centiskorch-1,Bold,Grip Claw,Scald,Heat Wave,Protect,Wrap,HP/Def
 Coalossal-1,Impish,Bright Powder,Stealth Rock,Will-O-Wisp,Protect,Mud-Slap,HP/Def
 Dugtrio-1,Jolly,Smooth Rock,High Horsepower,Rock Slide,Ally Switch,Sandstorm,Atk/Spe
-Excadrill-1,Impish,Sitrus Berry,Poison Jab,Dig,Protect,Sandstorm,HP/Def
+Excadrill-1,Impish,Leftovers,Poison Jab,Dig,Protect,Sandstorm,HP/Def
 Gigalith-1,Modest,Leftovers,Power Gem,Flash Cannon,Earth Power,Protect,Def/SpA
 Conkeldurr-1,Adamant,Flame Orb,Payback,Facade,Drain Punch,Protect,HP/Atk
 Swoobat-1,Jolly,Flame Orb,Psychic Fangs,Knock Off,Trick,Protect,Atk/Spe
@@ -197,7 +197,7 @@ Butterfree-2,Calm,Big Root,Giga Drain,Draining Kiss,Sleep Powder,Substitute,HP/S
 Vikavolt-2,Relaxed,Zoom Lens,Guillotine,Mud-Slap,Thunder Wave,Substitute,Def/SpD
 Noctowl-2,Timid,Bright Powder,Hypnosis,Dream Eater,Substitute,Air Slash,SpA/Spe
 Corviknight-2,Impish,Rocky Helmet,Spite,Swagger,Screech,Fly,HP/Def
-Greedent-2,Relaxed,Sitrus Berry,Rest,Sleep Talk,Super Fang,Payback,HP/Def
+Greedent-2,Relaxed,Rocky Helmet,Rest,Sleep Talk,Super Fang,Payback,HP/Def
 Unfezant-2,Calm,Bright Powder,Air Slash,Attract,Roost,Feather Dance,Def/SpD
 Thievul-2,Jolly,King’s Rock,Sucker Punch,Fire Fang,Thunder Fang,Ice Fang,Atk/Spe
 Obstagoon-2,Careful,Flame Orb,Gunk Shot,Facade,Trick,Obstruct,HP/SpD
@@ -346,7 +346,7 @@ Heliolisk-2,Modest,Bright Powder,Thunderbolt,Weather Ball,Dark Pulse,Sandstorm,S
 Hawlucha-2,Adamant,Focus Sash,Encore,Swords Dance,Acrobatics,High Jump Kick,Atk/Spe
 Flygon-2,Adamant,Choice Scarf,U-turn,Earthquake,Rock Slide,Fire Punch,Atk/Spe
 Haxorus-2,Jolly,Lum Berry,Attract,Outrage,Earthquake,Poison Jab,Atk/Spe
-Runerigus-2,Sassy,Sitrus Berry,Curse,Protect,Amnesia,Stone Edge,HP/SpD
+Runerigus-2,Sassy,Leftovers,Curse,Protect,Amnesia,Stone Edge,HP/SpD
 Aegislash-2,Sassy,Assault Vest,Shadow Sneak,Sacred Sword,Shadow Ball,Flash Cannon,HP/SpD
 Rapidash-2,Modest,Kasib Berry,Psychic,Dazzling Gleam,Mystical Fire,Calm Mind,SpA/Spe
 Polteageist-2,Modest,Petaya Berry,Teatime,Giga Drain,Shadow Ball,Psychic,SpA/Spe
@@ -531,7 +531,7 @@ Mimikyu-3,Brave,Mental Herb,Trick Room,Play Rough,Shadow Claw,Destiny Bond,Atk/S
 Copperajah-3,Adamant,Expert Belt,Play Rough,Iron Head,Zen Headbutt,Stone Edge,HP/Atk
 Qwilfish-3,Modest,Choice Specs,Scald,Ice Beam,Sludge Bomb,Shadow Ball,SpA/Spe
 Jellicent-3,Relaxed,Rocky Helmet,Scald,Shadow Ball,Giga Drain,Trick Room,HP/Def
-Toxapex-3,Calm,Sitrus Berry,Toxic Spikes,Baneful Bunker,Hex,Muddy Water,HP/SpD
+Toxapex-3,Calm,Leftovers,Toxic Spikes,Baneful Bunker,Hex,Muddy Water,HP/SpD
 Cramorant-3,Calm,Damp Rock,Surf,Hurricane,Blizzard,Rain Dance,SpA/SpD
 Toxtricity-Amped-1,Adamant,Shuca Berry,Wild Charge,Gunk Shot,Throat Chop,Shift Gear,Atk/Spe
 Toxtricity-Low Key-2,Bold,Leftovers,Toxic,Hex,Protect,Magnetic Flux,HP/Def
@@ -912,7 +912,7 @@ Aegislash-7,Modest,Weakness Policy,King’s Shield,Shadow Ball,Flash Cannon,Air 
 Mr. Rime-7,Adamant,Life Orb,Fake Out,Ice Shard,Sucker Punch,Zen Headbutt,Atk/SpD
 Dragapult-3,Adamant,Liechi Berry,Dragon Darts,Psychic Fangs,Sucker Punch,Acrobatics,HP/Atk
 Rillaboom-12,Adamant,Eject Pack,Wood Hammer,U-turn,Superpower,Fake Out,Atk/Spe
-Cinderace-12,Adamant,Sitrus Berry,Double-Edge,Pyro Ball,High Jump Kick,Sucker Punch,Atk/Spe
+Cinderace-12,Adamant,Life Orb,Double-Edge,Pyro Ball,High Jump Kick,Sucker Punch,Atk/Spe
 Inteleon-12,Modest,Focus Sash,Snipe Shot,Air Slash,Dark Pulse,Focus Energy,SpA/Spe
 Seismitoad-8,Adamant,Life Orb,Liquidation,Power Whip,Earthquake,Drain Punch,HP/Atk
 Rhyperior-8,Brave,Assault Vest,Earthquake,Stone Edge,Avalanche,Hammer Arm,Atk/Def
